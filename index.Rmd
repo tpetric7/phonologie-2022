@@ -21,6 +21,10 @@ editor_options:
     references: 
       location: block
     canonical: true
+output:
+  bookdown::pdf_document2:
+    includes:
+      in_header: header.tex
 ---
 
 ```{r setup00, include=FALSE}

@@ -1,322 +1,795 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
 # Gegenstand und Sinn der Phonologie
 
-Im Alltag, sei es privat oder im Beruf, verständigen wir uns vorrangig mit Hilfe von mündlich oder schriftlich geführten Texten. Will man den Aufbau eines Textes besser kennen lernen, ist es sinnvoll, ihn nach nachvollziehbaren Prinzipien und Methoden in kleinere Einheiten zu zerlegen. In der Sprachwissenschaft hat sich eine längere Liste von Einheiten in Texten etabliert, die man verschiedenen Bereichen zuordnen kann. Hier sollen vor allem diejenigen Bereiche erwähnt werden, die gemeinsam die Grammatik einer Sprache umreißen.
+Im Alltag, sei es privat oder im Beruf, verständigen wir uns vorrangig
+mit Hilfe von mündlich oder schriftlich geführten Texten. Aufbau und
+Wirkung eines Textes sind leichter zu erkennen, wenn man ihn nach
+nachvollziehbaren Prinzipien und Methoden in kleinere Einheiten zerlegt.
+In der Sprachwissenschaft hat sich eine längere Liste von Einheiten in
+Texten etabliert, die man verschiedenen Bereichen zuordnen kann. Hier
+sollen vor allem diejenigen Bereiche erwähnt werden, die gemeinsam die
+Grammatik einer Sprache umreißen.
 
 <img src="pictures/grammatische_bereiche.png" width="100%" />
 
-Der *Text* ist die umfangreichste und hierarchisch höchste kommunikative Einheit, die aus inhaltlich zusammenhängenden *Äußerungen* besteht und eine nachvollziehbare und sortenspezifische Struktur aufweist (Engel 1988: 33).
+Der *Text* ist die umfangreichste und hierarchisch höchste kommunikative
+Einheit, die aus inhaltlich zusammenhängenden *Äußerungen* besteht und
+eine nachvollziehbare und sortenspezifische Struktur aufweist (Engel
+1988: 33).
+
+*Äußerungen* lassen sich als Laut- oder Schriftzeichenketten definieren,
+die von einem Sprecher zwischen zwei Pausen produziert werden und aus
+einem oder mehreren Sätzen bestehen können (Bußmann 21990: 52). Im
+Gegensatz zu Sätzen sind sie *kommunikative* Einheiten und gehören somit
+auf die Ebene der *Performanz* oder Parole.
+
+Die *Phoneme* (distinktive Sprachlauttypen) und *Phone* (Sprachlaute)
+gehören zu den kleinsten Einheiten eines mündlichen Textes.
+
+Die *Phonologie* ist eine Teildisziplin der Sprachwissenschaft, die sich
+mit der lautlichen Seite von sprachlichen Äußerungen beschäftigt. Der
+Ausdruck wird verschiedenartig verwendet. Im Rahmen dieser Vorlesungen
+wird er als Oberbegriff für alle Teildisziplinen verwendet, die die
+lautliche Seite von Sprache untersuchen, also als *Oberbegriff* für
+*Phonetik*, *Phonemik*, *Phonotaktik* und *Prosodie*. So wird der
+Ausdruck auch in amerikanischen sprachwissenschaftlichen Studien
+verwendet (Bußmann 21990: 581). In vielen wissenschaftlichen Arbeiten
+wird Phonologie im Sinne von Phonemik verwendet, also in einem
+eingeschränkteren Sinne als in dieser Vorlesung. Der slowenische
+Ausdruck glasoslovje wird von Toporišič ebenfalls als Oberbegriff für
+die oben angeführten Teilgebiete verwendet (vgl. Toporišič 1992: 50).
+
+## Phonemik vs. Phonetik
+
+Die Beschreibung einer Sprache ist aus etischer und emischer Sicht
+möglich. Die beiden Wortbildungselemente etisch und emisch bezeichnen
+den Unterschied zwischen materieller vs. funktioneller
+Sprachbetrachtung.
+
+• Die Phonetik untersucht die "akustisch meßbaren und artikulatorisch
+definierbaren aktuellen Lautäußerungen" (Bußmann 1983). Sie "betrachtet
+Sprache gewissermaßen von außen und erfaßt und beschreibt das gesamte
+vorhandene Lautmaterial, ohne notwendigerweise Bezug auf eine bestimmte
+Sprache zu nehmen." (SSM 1: 1). "Ihre Basis sind Erkenntnisse der
+Anatomie, Physiologie, Neurologie und Physik." (Bußmann 21990: 579).
+
+• Die Phonemik "betrachtet die zu beschreibende Sprache von innen, d.h.
+sie untersucht die Beziehung der Laute zueinander und deren Funktion in
+dieser Sprache.
+
+Aufgrund der oben getroffenen Unterscheidung zweier Betrachtungsweisen
+sind zwei Arten von Grundeinheiten anzusetzen. Definitionen der beiden
+Grundeinheiten:
+
+• Als Grundeinheit der Phonetik wird das Phon (der Sprechlaut) genannt,
+d.h. die "kleinste durch Segmentierung (Zerlegung) gewonnene lautliche
+Einheit, die noch nicht als Repräsentant eines bestimmten Phonems
+klassifiziert ist." (Bußmann 21990: 576).
+
+• Die Grundeinheit der Phonemik ist das Phonem. Das Phonem ist ein
+Lauttyp und wird als Bezeichnung verwendet "für kleinste aus dem
+Schallstrom der Rede abstrahierte lautliche Segmente mit potentiell
+bedeutungsunterscheidender Funktion." (Bußmann 21990: 576).
+
+Die Notation von Phonen bzw. Phonemen unterscheidet sich voneinander.
+
+• Phone werden in eckigen Klammern notiert: [fo:n].
+
+• Phoneme werden hingegen zwischen Schrägstrichen geschrieben: /r/.
+
+Die Begriffe Phon und Phonem sollen an einigen Beispielen mit den
+stimmlosen bilabialen Verschlußlauten verdeutlicht werden.
+
+<img src="pictures/01b_NSG_Intro_2020-10-07/phoneme_und_allophone1.png" width="241" />
+
+• Aus phonetischer Sicht kommen in den englischen, deutschen und
+thailändischen Wörtern in (1), (2) und (3) zwei stimmlose bilabiale
+Verschlußlaute vor, und zwar [ph] und [p], in den slowenischen in (4)
+hingegen nur ein stimmloser bilabialer Verschlußlaut, und zwar [p]. Vom
+Standpunkt der Phonetik besteht also in dieser Hinsicht ein Unterschied
+zwischen dem Deutschen, Englischen und Thai einerseits und dem
+Slowenischen andererseits. • Aus phonemischer Sicht kann man jedoch
+feststellen, daß die Verschlußlaute [ph] und [p] im Englischen und
+Deutschen in einem anderen Verhältnis zueinander stehen als im Thai. Vom
+Standpunkt der Phonemik gibt es hier also einen Unterschied. Die beiden
+Verschlußlaute treten im Englischen und Deutschen in unterschiedlichen
+Umgebungen auf und sind somit ledigliche Varianten eines Phonems. Im
+Thai kommen beide Verschlußlaute an derselben Stelle im Wort vor. Da
+ihre lautlichen Umgebungen identisch sind, bilden die Laute [ph] und [p]
+den einzigen phonetischen Unterschied in diesen Wörtern. Die beiden
+Wörter im Thai haben unterschiedliche Bedeutung, was auf die beiden
+Verschlußlaute zurückgeführt werden kann. Die stimmlosen bilabilaen
+Verschlußlaute [ph] und [p] haben im Thai bedeutungsunterscheidende
+Funktion, im Englischen und Deutschen hingegen nicht. Daher müssen sie
+im Thai zwei Phonemen zugeordnet werden (6), im Englischen und Deutschen
+hingegen nur einem Phonem (5). Das slowenische Phonem /p/ wird in (4)
+immer nur durch ein Phon realisiert, und zwar durch [p].
+
+<img src="pictures/01b_NSG_Intro_2020-10-07/phoneme_und_allophone2.png" width="138" />
+
+## Aufgabenbereich der Phonetik
+
+Die Phonetik ist eine Naturwissenschaft auf der Grundlage von Anatomie,
+Physiologie, Physik (Akustik) und Mathematik.
+
+Ihre Aufgabe ist nach Gross (21990: 35) die materielle Analyse
+sprachlicher Äußerungen bzw. Laute als eine der Grundlagen
+
+• der theoretischen Linguistik und Dialektologie und
+
+• für die Lösung praktischer Probleme in der Patholinguistik,
+Sprachdidaktik und Computerlinguistik.
+
+Aus dem jeweiligen Ort im Kommunikationsprozeß (Sprecher - Text - Hörer)
+ergeben sich laut Gross (21990: 36) drei Teilgebiete der Phonetik:
+
+• Die artikulatorische Phonetik beschreibt die Produktion der Laute, und
+zwar nach Artikulationsart und Artikulationsort.
+
+• Die akustische Phonetik beschreibt die Laute nach ihren physikalischen
+Eigenschaften (z.B. Dauer, Frequenz, Intensität) und erstellt mit Hilfe
+spezieller Meßgeräte verschiedenartige Diagramme z.B. Sonagramme.
+
+• Die auditive Phonetik untersucht die Rezeption und Analyse
+sprachlicher Zeichen durch Ohr, Nervenbahnen und Gehirn. Neben rein
+physikalischen Gegebenheiten ist in diesem Teilgebiet immer ein gewisses
+Maß an nicht direkt meßbaren (semantischen, psychologischen) Prozessen
+vorhanden (vgl. Neppert/Pétursson 31992: 8). Die auditive Phonetik ist
+das am wenigsten entwickelte Teilgebiet der Phonetik. Jedes Teilgebiet
+verfügt über eigene Grundeinheiten (vgl. Neppert/Pétursson 31992: 8).
 
-## Äußerung
+Im Rahmen des Phonetikunterrichts für Studenten der Germanistik,
+insbesondere Studenten des Deutschen als Fremdsprache, steht der
+Teilbereich der artikulatorischen Phonetik meist im Vordergrund, d.h.
+die Bildungsweise und der Bildungsort der deutschen Laute.
 
-*Sprachliche Äußerung*: 
-sinnvolle Lautfolge zwischen zwei Pausen
-Inhalt 		Absicht
-
-Äußerung
-Satzförmig	<-->	nicht-satzförmig
-
-*Äußerungen* lassen sich als Laut- oder Schriftzeichenketten definieren, die von einem Sprecher zwischen zwei Pausen produziert werden und aus einem oder mehreren Sätzen bestehen können (Bußmann 21990: 52). Im Gegensatz zu Sätzen sind sie *kommunikative* Einheiten und gehören somit auf die Ebene der *Performanz* oder Parole. *Sätze* sind hingegen Einheiten des Sprachsystems und gehören somit auf die Ebene der *Kompetenz* oder Langue. 
-
-*Äußerungen* können die Form (d.h. die Struktur, den Aufbau) von Sätzen (z.B. Hauptsätzen) oder satzförmigen Konstruktionen (z.B. Nebensätzen, Infinitivgruppen) haben, oder auch nicht-satzförmig (z.B. als Nominalphrase) auftreten (vgl. Engel 1988: 33).
-
-## Prototypischer Satz
-
-*Prototypischer Satz*
--	 Finites Verb
--	 Eignen sich dazu, Sprechhandlungen eindeutig auszudrücken
--	 Enthält kein unterordnendes Element (z.B. keinen Subjunktor)
-
-Die *Syntax* gilt traditionell als Lehre vom Satzbau. Sie ist ein Teilbereich der Grammatik natürlicher Sprachen und bildet ein System von Regeln, die beschreiben, wie aus einem Inventar von Grundelementen (d.h. Morphemen, Wörtern, Satzgliedern) durch spezifische syntaktische Mittel (d.h. morphologische Markierung, Intonation, Reihenfolge) alle wohlgeformten Sätze einer Sprache abgeleitet werden können (nach Bußmann 21990: 766). 
-
-## Syntaktische Grundbeziehungen
-
-In den folgenden Abschnitten sollen die folgenden syntaktischen Grundbeziehungen beschrieben werden:
-
-1.	die zwei Seiten eines sprachlichen Zeichens - Inhalt vs. Ausdruck
-2.	paradigmatische vs. syntagmatische Beziehungen zwischen sprachlichen Zeichen
-3.	Konstituenzbeziehungen zwischen sprachlichen Zeichen
-4.	Dependenzbeziehungen zwischen sprachlichen Zeichen
-
-Jedes sprachliche Zeichen hat hat zwei Seiten: 
-•	die *Inhalts- oder Bedeutungsseite*
-•	die *Ausdrucks- oder Formseite*.
-
-Nur die *Ausdrucksseite* ist direkt zugänglich, während die Inhaltsseite erschlossen werden muß. Die Form einer Münze z.B. können wir mit unseren Sinnen wahrnehmen, welche Bedeutung sie jedoch für uns hat, müssen wir erst mit Hilfe unseres gespeicherten Wissens u.a. erschließen. 
-
-In flektierenden bzw. fusionierenden Sprachen (z.B. Deutsch, Slowenisch) wird ein und derselbe Inhalt häufig durch verschiedene Formen ausgedrückt (vgl. derselbe Sachverhalt in Aktiv vs. Passiv, verschiedene Suffixe für Personenbezeichnungen, verschiedene Suffixe für Plural usw.). Umgekehrt gilt, daß ein Ausdruck oft polyfunktional bzw. polysem ist, d.h. daß er je nach sprachlicher oder außersprachlicher Umgebung mehrere Bedeutungen auszudrücken vermag (vgl. die verschiedenen Funktionen der Suffixe -en oder -er, der Partikeln ja, doch, eben, denn, der Tempora Präsens oder Perfekt usw.). Eine eineindeutige Entsprechung (1:1 Entsprechung) zwischen Inhalt und Ausdruck besteht somit nicht. Agglutinierende Sprachen (z.B. Türkisch) nähern sich diesem “Ideal” (als eines “Ideale” gilt 1:1 Entsprechung zwischen Inhalt und Form deshalb, weil das Gedächtnis weniger belastet ist als bei 1:n Entsprechungen). 
-
-Mehr über die Beziehung zwischen Inhalt und Ausdruck ist aus den Folien über die Kodierverfahren zu ersehen. 
-
-Die *syntaktische Form von Sätzen* verändert sich nach Eisenberg (1989: 45-47) auf verschiedene Weise: 
-•	durch *Variierung der Reihenfolge* von Satzelementen (Haben zwei Sätze dieselben Elemente und treten diese Satzelemente in verschiedener Reihenfolge auf, dann haben die beiden Sätze eine verschiedene Form, und zwar ohne Rücksicht auf Bedeutungsunterschiede oder Bedeutungsgleichheit der beiden Sätze); 
-•	durch *Intonation* (d.h. die Kombination aus Tonhöhe, Tondauer und Tonstärke) in der gesprochenen Sprache bzw. durch Interpunktion (d.h. Komma, Punkt, Doppelpunkt, usw.) in der geschriebenen Sprache (Die Intonation ist zweifellos ein Formmittel, denn man hört, auf welchem Satzelement der Hauptakzent liegt, oder ob die Tonhöhe am Satzende steigt);
-•	durch *morphologische Veränderung* von Einheiten im Satz (Verändert man die im Satz vorkommenden Elemente durch Präfixe, Suffixe, Infixe, Umlaut oder Ablaut, verändert man auch die syntaktische Form eines Satzes).
-
-
-“Dadurch daß eine linguistische Einheit in einem bestimmten Kontext vorkommen kann, können zweierlei Relationen entstehen. Sie steht in paradigmatischer Relation zu all jenen Einheiten, die gleichfalls in demselben Kontext vorkommen können (gleichgültig, ob sie mit der ersten Einheit kontrastieren oder in freier Variation sind) und in syntagmatischer Relation zu jenen anderen Einheiten derselben Stufe, mit denen zusammen sie vorkommt und die ihren Kontext bilden.” (Lyons 71989: 75) *Paradigmatische und syntagmatische Beziehungen* sind nicht nur auf syntaktischer Ebene, sondern auf allen Ebenen linguistischer Beschreibung bedeutend, also etwa auch auf phonologischer, morphologischer und semantischer Ebene (Lyons 71989: 76). Die Elemente, die ein Paradigma bilden, sind somit füreinander austauschbar und können nicht gleichzeitig stehen. Die Elemente, die ein Syntagma bilden, sind nicht füreinander austauschbar und kommen in demselben Kontext vor. Elemente in syntagmatischer Beziehungen bilden eine Struktur. Die Zahl der möglichen Strukturen ist theoretisch gesehen unendlich. Ein Paradigma oder System ist hingegen eine endliche Menge von Wahlmöglichkeiten, die dem Sprecher in einem bestimmten Kontext zur Verfügung stehen. Syntagmatische und paradigmatische Beziehungen werden zur Veranschaulichung oft in einem zweidimensionalen Koordinatensystem abgebildet. Auf der horizontalen Achse werden die syntagmatischen Beziehungen und auf der vertikalen Achse die paradigmatischen Beziehungen abgebildet. Die horizontale Achse wird auch als Strukturachse und die vertikale Achse auch als Systemachse oder Wahlachse bezeichnet (z.B. eine Satzstruktur mit Pronominalparadigma zur Veranschaulichung einzeichnen). 
-
-Speziell in der Syntax bestehen *syntagmatische* Beziehungen zwischen Konstituenten (d.h. Einheiten eines Satzes). Für das Deutsche setzt Eisenberg (1989: 52) *vier Typen* solcher Beziehungen an, und zwar *Rektion*, *Identität*, *Kongruenz* und *Positionsbezug*.
-
-
-1.	*Rektion*
-
-Der Begriff Rektion (lat. regere „regieren“; engl. government; slow. vezavnost) wird in Abhängigkeit von der jeweiligen Grammatiktheorie verschieden verwendet. Das regierende Element wird als Regens, das von ihm abhängige Element dagegen als Rektum oder Dependens bezeichnet. In der traditionellen Grammatik sprach man von Rektion, wenn der Kasus eines Objektes vom Verb abhängig war.
-
-(1)	Verb: essen <akk>: Kinder essen gern [ akk Pfannkuchen]. 
-(2)	Präposition: zu <dat>: Morgen muß ich zu[m Zahnarzt dat]. 
-(3)	Nomen: Anweisung <gen>: die Anweisung [ gen meines Chefs]
-
-Konstituenten, die durch Rektionsbeziehung miteinander verbunden sind, bilden zusammen eine höhere Konstituente. Beispiel: Ein Substantiv (Paradigmenkategorie SUBSTANTIV) kann ein Genitivattribut binden, regiert als den Genitiv und legt damit die Form des Attributes fest (das Haus meines Vaters). 
-
-In Konkurrenz zur Rektion steht der von Tesnière geprägte Valenzbegriff (engl. valency; slow. vezljivost). *Valenz* ist ein der aus der Chemie entlehnter Begriff (vgl. die Fähigkeit von Atomkernen eine bestimmte Anzahl von Elektronen zu binden mit der Fähigkeit von bestimmten Lexemen eine bestimmte Anzahl von anderen Lexemen oder Wortgruppen zu binden). 
-
-Nach Helbig & Buscha ist Valenz eine semantisch begründete Fähigkeit von lexikalischen Elementen (insbesondere Verben, Nomina, Adjektiven), Leerstellen im Satz zu eröffnen, die von Aktanten (d.h. Ergänzungen) besetzt werden können oder müssen. Nach Eisenberg ist Valenz eine besondere Form von Rektion.
-
-2.	*Identität*
-
-“Eine Konstituente f1 steht in der Identitätsbeziehung zu einer Konstituente f2, wenn es bestimmte grammatische Kategorien gibt, denen beide Konstituenten zugeordnet sind.” (Eisenberg 21989: 54) Als Beispiel: koordinierte Nominalphrasen, enge Apposition: der Bürger Danton. 
-
-3.	*Kongruenz*
-
-Unter Kongruenz versteht man im allgemeinen die formale Übereinstimmung einer Wortform mit einer anderen oder mit anderen Wortformen.
-
-Kongruenzerscheinungen sind in den Sprachen der Welt verschieden geregelt. Übereinzelsprachlich häufig ist die Kongruenz zwischen dem Prädikat und dem Subjekt des Satzes, während andere Kongruenzerscheinungen (wie beispielsweise die Kongruenz zwischen Subjekt und adjektivischer Prädikatsergänzung) sprachspezifischer zu sein scheinen. 
-
-(4)	[Der Elefant 3.P.Sg.] [trink-t 3.P.Sg.] Wasser. (Person und Numerus kongruieren)
-(5)	[Slon 3.P.Sg. ] [pi-je 3.P.Sg. ] vodo. (Kongruenz hinsichtlich Person und Numerus)
-
-Im Deutschen gibt es zwar eine Kongruenz zwischen dem finiten Verb und dem Subjekt des Satzes,  aber keine zwischen Subjekt und adjektivischer Prädikatsergänzung wie im Slowenischen (oder Italienischen). 
-
-(6)	Der Verkäufer ist noch jung. vs. Die Verkäuferin ist noch jung. 
-(7)	Prodajalec je še mlad. vs. Prodajalka je še mlad-a. 
-
-Selbst die Kongruenz zwischen Subjekt und finitem Verb ist verschieden ausgebildet, je nachdem in welcher Form das Subjekt des Satzes auftritt. Erscheint es im Deutschen als Nomen, kongruiert es mit dem finiten Verb eigentlich nur hinsichtlich Numerus, denn der Wert für die Personkategorie kann nicht variieren (es handelt sich immer um die dritte Person, d.h. die besprochene Person oder Sache); erscheint es im Deutschen dagegen als Pronomen, kann es mit dem finiten Verb auch hinsichtlich Person kongruieren, denn man kann statt der dritten Person auch die erste oder zweite einsetzen. 
-
-(8)	Der Mechaniker repariert gerade meinen Wagen. 
-(9)	Er repariert gerade meinen Wagen. (3. Person Singular)
-(10)	Der Mechaniker sagt: "Ich repariere gerade ihren Wagen." (1. Person Singular)
-(11)	Ich fragte den Mechaniker: "Wann reparieren Sie meinen Wagen." (3. Person Plural)
-(12)	Meine Freundin fragte mich: "Reparierst du meinen Wagen oder soll ich lieber einen Fachmann damit beauftragen?" (2. Person Singular)
-
-Da das Slowenische wie beispielsweise Italienisch eine sogenannte Pro-Drop-Sprache ist, sind Pronomen in der Funktion eines Subjekts nur dann obligatorisch, wenn man Sie aufgrund des Kontextes hervorheben möchte. Ansonsten werden thematische Subjektpronomen in der slowenischen Standardsprache nicht realisiert. In der Syntaxtheorie wird das nicht realisierte thematische Subjektpronomen als pro (kleingeschrieben !) notiert. 
-
-(13)	[Subj Mehanik] popravlja pravkar moj avto. 
-(14)	Pravkar popravlja [Subj pro] moj avto. (3. Person Singular)
-(15)	Mehanik reče: "Pravkar popravljam [Subj pro] Vaš avto." (1. Person Singular)
-(16)	Vprašam mehanika: "Kdaj boste [Subj pro] popravili moj avto?" (2. Person Plural)
-(17)	Moja prijateljica me vpraša: "Ali boš TI popravil moj avto ali naj raje pokličem strokovnjaka?" (das Subjektpronomen wird realisiert und durch Kontrastbetonung hervorgehoben)
-
-Im Slowenischen kann das Subjekt zusätzlich mit dem infiniten Verb hinsichtlich der Genuskategorie kongruieren. 
-
-(18)	Prodajalec je odprl trgovino. 
-(19)	Prodajalka je odprla trgovino. 
-
-Wie oben gezeigt wurde, ist dies auch bei adjektivischen Prädikatsergänzungen der Fall. Im Gegenwartsdeutschen ist diese Kongruenzerscheinung nicht bekannt. 
-
-Traditionell wird noch ein weiterer Fall von formaler Übereinstimmung als Kongruenz behandelt, nämlich die formale Übereinstimmung zwischen dem Nomen und seinen vorangestellten Begleitern, den Adjektiven und Artikelwörtern. In der Grammatik von Eisenberg (21989) finden wir dazu eine andere Ansicht. 
-
-4.	*Positionsbezug*
-
-“Eine Konstituente f1 ist positionsbezogen auf eine Konstituente f2, wenn die Position von f2 relativ zu f1 festliegt.” (Eisenberg 21989: 56) Als Beispiele können uns die Konstruktionen Präposition + N; Subjunktor + V-Letzt-Stellung dienen. 
-
-In Abhängigkeit vom Sprachtyp werden Wortverbindungen nach vorgegebenen Stellungsregeln behandelt. In den sogenannten SVO-Sprachen, zu denen man das Englische, Französische und Slowenische aufgrund der charakteristischen Abfolge Subjekt vor Verb und Verb vor Objekt zählen könnte, gibt es eine Präferenz, einen regierten Ausdruck rechts vom Regens anzuordnen: z.B. das Akkusativobjekt rechts vom regierenden Verb oder die Nominalphrase rechts von der regierenden Präposition. Im Französischen ist die Rechts-Präferenz noch stärker ausgeprägt, denn Adjektive in einer Nominalphrase erscheinen rechts vom regierenden Nomen. In einer älteren Entwicklungsstufe der slawischen Sprachen soll dies ebenfalls der Fall gewesen sein (z.B. wie in oče naš). 
-
-(20)	The shop assistant has opened [ Obj the shop]. 
-(21)	Prodajalec je odprl [ akkobj trgovino]. 
-
-In Sprachen mit dominanter SOV-Anordnung (mit der Abfolge Subjekt vor Objekt und Verb-Letzt-Stellung), zu denen man das Gegenwartsdeutsche zählen könnte, ist eine umgekehrte Präferenz zu erwarten, nämlich daß der regierende Ausdruck links vom Regens angeordnet wird: z.B. das Akkusativobjekt links vom regierenden Verb oder die Nominalphrase links von der regierenden Präposition oder attributive Adjektive links vom regierenden Nomen. Tatsächlich stehen Akkusativobjekte (und andere Objekte), wenn Sie als Nominalphrasen ausgedrückt werden, vor dem regierenden Verb in Infinitiv- oder Partizipialform und attributive Adjektive erscheinen vor dem regierenden Nomen. 
-
-(22)	Der Verkäufer hat soeben [ akkobj das Geschäft] geöffnet. 
-(23)	[Der adj blonde N Verkäufer] hat soeben das Geschäft geöffnet. 
-
-Was die Struktur der deutschen Präpositionalphrasen anbelangt, scheint die oben angestrebte Generalisierung nicht standzuhalten, denn es gibt im Deutschen viele Phrasen, in denen die Nominalphrase der regierenden Präposition folgt. Andererseits ist zu beobachten, daß es im Gegenwartsdeutschen in Einklang mit der Generalisierung auch Postpositionen gibt, d.h. Fügewörter, die der regierten Nominalphrase folgen und ihr nicht voranstehen. 
-
-(24)	nach meiner Meinung vs. meiner Meinung nach
-(25)	entlang des Flusses vs. den Fluss entlang
-
-Postpositionen sind in Sprachen mit dominanter SVO-Stellung selten oder überhaupt nicht vorhanden. An der Tatsache, dass im Deutschen sowohl Präpositionen als auch Postpositionen vorkommen, obwohl letztere präferent zu erwarten gewesen wären, zeigt sich andererseits, dass eine Sprache häufig einen Mischtyp verschiedener Kodierungsstrategien darstellt. 
-
-
-3.	*KONSTITUENZ*
-
-Sprachliche Ausdrücke treten notgedrungenerweise linear in einem Satz auf, d.h. zeitlich oder räumlich nacheinander. Die Linearität der menschlichen Rede ist jedoch nicht das einzige Prinzip und bei weitem nicht das wichtigste. Dies zeigt sich an einfachen Sätzen wie Unsere Studenten haben die Pflichtlektüre nicht gelesen daran, daß für jeden kompetenten Sprecher der deutschen Sprache engere Beziehungen zwischen bestimmten Satzelementen offensichtlich sind: (a) zwischen unsere und Studenten, (b) zwischen haben und gelesen, (c) zwischen die und Pflichtlektüre und (d) zwischen Studenten und haben. Diese engeren Beziehungen zwischen den angeführten Satzelementen zeigen sich auch auf grammatischer Ebene: (a) beide Wörter stehen im Nominativ Plural, (b) die beiden Verbformen bilden zusammen eine Tempusform, die Perfekt genannt wird und sowohl Gegenwarts- als auch Vergangenheitsbezug hat, (c) beide Wörter stehen im Akkusativ Singular und sind feminine Formen, (d) die beiden Wörter kongruieren miteinander, d.h. hier sie stimmen in ihrer morphologischen Form bezüglich Person und Numerus überein (3. Person Plural). Die enge Beziehung der beiden Wörter in (b) zeigt, daß sprachliche Ausdrücke in engeren Beziehungen zueinander stehen können, selbst wenn sie weit auseinander stehen. Das oben angeführte Satzbeispiel offenbart, daß man neben der Linearität der menschlichen Rede mit weiteren grundlegenden Prinzipien zu rechnen hat, nämlich mit der Konstituenz und der Dependenz von Sätzen und ihren Teilen.
-
-Konstituenz ist eine grundlegende syntaktische Beziehung bei der Beschreibung der hierarchischen Struktur von Sätzen oder deren Teilen. Zwischen zwei linear auftretenden sprachlichen Ausdrücken A und B besteht eine Konstituenzbeziehung, wenn beide von einem weiteren Element C dominiert werden. Dominanz zwischen zwei Elementen A und C liegt genau dann vor, wenn die Konstituente A eine Konstituente oder eine Teilkonstituente von C ist.  Das Element C besteht somit aus den Bestandteilen A und B. 
-
-C
-
-
-A		B
-
-In dem oben angeführten Satzbeispiel besteht die Nominalphrase Unsere Studenten (C) aus den Bestandteilen unsere (A) und Studenten (B) oder die Nominalphrase die Pflichtlektüre (C) aus den Konstituenten die (A) und Pflichtlektüre (B). Eine der beiden dominierten Konstituenten (A oder B) vererbt seine Eigenschaften (teilweise) an die dominierende Kategorie C. 
-
-Konstituenz ist einerseits vergleichbar mit einer Relation in der Semantik (Bedeutungslehre), nämlich der Beziehung zwischen einem Oberbegriff und den entsprechenden Unterbegriffen (d.h. zwischen einem Hyperonym und seinen Hyponymen): z.B. das Hyperonym Tier und seine Hyponyme Hund, Katze, Kuh, Pferd, Löwe, Zebra, Goldfisch usw. Die "Vererbung" der Eigenschaften an das Hyperonym richtet sich andererseits nach Gemeinsamkeiten zwischen den Hyponymen, wohingegen sich die Vererbung der Eigenschaften bei der syntaktischen Dominanzbeziehung nach den Eigenschaften des Kopfes der Phrase richtet (Kopfprinzip) und nicht nach den gemeinsamen Eigenschaften der Elemente der Phrase. 
-
-An dieser Stelle soll auch die Bedeutung der oben verwendeten Begriffe Kategorie und Phrase erläutert werden. Eine Phrase ist eine Verbindung von Satzelementen (z.B. Wörtern), die gemeinsam an eine andere Stelle im Satz verschoben werden können. Wenn beispielsweise von einer Nominalphrase die Rede ist, dann ist eine Wortverbindung aus der lexikalischen Kategorie Nomen und seinen (fakultativen) Begleitern (z.B. Adjektiven) gemeint, in der das Nomen den Kopf der Phrase darstellt, was daran ersichtlich ist, daß die gesamte Phrase die Eigenschaften der lexikalischen Kategorie Nomen übernimmt ("erbt"). Die Bestandteile der Nominalphrase unsere Studenten im oben verwendeten Satz können aufgrund ihrer Zusammengehörigkeit gemeinsam an eine andere Stelle im Satz verschoben werden (z.B. Die Pflichtlektüre haben unsere Studenten nicht gelesen), während einzelne Teile der Nominalphrase diese Fähigkeit gewöhnlich nicht haben (z.B. *Die Pflichtlektüre haben Studenten nicht unsere gelesen). 
-
-Wenn in diesem Zusammenhang von Kategorie die Rede ist, sind grammatische Kategorien gemeint. Laut Bußmann (1990: 291-292) sind grammatische Kategorien Abstraktionsklassen linguistischer Einheiten, d.h. im Rahmen des Strukturalismus "Klassen von sprachlichen Ausdrücken, die bezüglich eines bestimmten Kontextes unter Wahrung der Grammatikalität füreinander ersetzbar sind", im Rahmen der generativen Transformationsgrammatik "Klassen von Ausdrücken, die bestimmte Strukturstellen im Satz ausfüllen können". Traditionell versteht man darunter morphologische Kategorien (z.B. Person, Numerus, Genus) und syntaktische Kategorien (z.B. die Wortarten Nomen, Verb, Adjektiv usw., die phrasalen Kategorien Nominalphrase, Verbalphrase, Adjektivalphrase usw.). Die Wortarten (z.B. Nomen, Adjektiv, Adverb, Verb) werden übrigens auch als lexikalische Kategorien bezeichnet im Gegensatz zu den Wortverbindungen, die dann als phrasale Kategorien eingeordnet werden (z.B. Nominalphrase, Adjektivalphrase, Verbalphrase, Adverbialphrase). Von den lexikalischen und phrasalen Kategorien sind die syntaktischen Funktionen (z.B. Subjekt, Akkusativobjekt, Adverbialbestimmung) zu unterscheiden, d.h. grammatische Relationen, die außerhalb der Konstituente in Bezug auf andere Teile des Satzes (etwa des Verbs) bestimmt werden. Ein und dieselbe lexikalische oder phrasale Kategorie kann in Sätzen verschiedene syntaktische Funktionen haben. Im oben verwendeten Satz Unsere Studenten haben die Pflichtlektüre nicht gelesen hat die Nominalphrase Unsere Studenten die Funktion eines Subjekts (die man mit Wer oder was? erfragen kann), im Satz Dort sehe ich unsere Studenten hat dieselbe Nominalphrase die Funktion eines Akkusativobjekts (das man mit Wen oder was? erfragen kann). Da syntaktische Funktionen wie beispielsweise Subjekt, Objekt oder Adverbialbestimmung Relationscharakter haben, lassen sich nicht isoliert vom Kontext aufzählen wie beispielsweise die Wortklassen Nomen, Adjektiv oder Verb. Ein Adjektiv kann im Satz verschiedene Funktionen ausüben: es kann als Begleiter eines Nomens (das ist die sogenannte Attributfunktion) oder als Ergänzung zum Verb (das ist die sogenannte Prädikativfunktion, in Valenzmodellen auch Adjektivalergänzung genannt) auftreten.  
-
-
-4.	*DEPENDENZ*
-
-Als Grundbeziehung zwischen (linear auftretenden) sprachlichen Elementen gilt auch das Prinzip der Dependenz, d.h. der Abhängigkeit eines Elementes von einem anderen. Sprachliche Elemente stehen somit wie andere Erscheinungen in unserer Welt in Hierarchiebeziehungen zueinander. Das abhängige Element wird Dependens genannt, das nicht-abhängige dagegen Regens (vgl. syntagmatische Beziehung Rektion). Die Dependenz ist eine syntaktische Grundbeziehung, bei der ein Element (das Dependens) nicht ohne ein anderes (das Regens) auskommen kann: z.B. in der Phrase ziemlich wichtige Persönlichkeiten kann die Partikel ziemlich nicht ohne das Adjektiv wichtig auftreten, da die Phrase *ziemlich Persönlichkeiten keine wohlgeformte Phrase der deutschen Sprache wäre (also ungrammatisch). Das Dependenzprinzip steht in den sogenannten Valenzgrammatiken bzw. Valenzmodellen im Mittelpunkt. Die Satzstruktur wird hierarchisch gegliedert, mit dem Verb (Verbalkomplex, Prädikat) an der Spitze. Derartige Valenzmodelle werden übrigens als Valenzverbgrammatiken bezeichnet. Über das Dependenzprinzip soll später noch im Vergleich mit der Konstituentengrammatik und im Rahmen des Valenzmodells gesprochen werden. 
-
-
-
-## Identifikationsverfahren
-
-*Identifikationsverfahren*
-1.	Verschiebeprobe
-2.	Austauschprobe, Ersatzprobe (Fragetest)
-3.	Eliminierungsprobe
-4.	Hinzufuegungsprobe
-(5. Koordinationsprobe, Häufungsprobe, Akzentuierungsprobe mit Satz- oder Kontrastakzent)
-
-1.	Die *Verschiebeprobe* wird auch Umstellprobe oder Permutationsprobe genannt. Dieses Verfahren dient dazu, Konstituenten  eines Satzes zu ermitteln. Konstituenten des Satzes kann man in vielen Fällen mit der Kategorie Satzglied gleichsetzen. Ein Ausdruck, der aus einem oder mehreren Wörtern besteht, wird als Konstituente eines Satzes bezeichnet, wenn er sich im Satz frei verschieben läßt. 
-
-(1a)	Der Professor hält einen Vortrag über Textlinguistik.
-(1b)	Einen Vortrag über Textlinguistik hält der Professor.
-
-Die unterstrichene Phrase in (1a) läßt sich frei im Satz verschieben, z.B. an den Anfang des Satzes.  Der Satz ist trotz der Verschiebung der unterstrichen Phrase grammatisch richtig (2b). Daraus können wir folgern, daß die unterstrichene Phrase eine Konstituente des Satzes ist. 
-
-Nun folgt ein Beispiel, in dem die unterstrichene sprachliche Einheit keine Satzkonstituente ist.
-
-(2a)	Der Professor hält einen Vortrag über Textlinguistik.
-(2b)	*Einen hält der Professor Vortrag über Textlinguistik.
-
-Das unterstrichene sprachliche Element in (2a) läßt sich nicht frei im Satz verschieben. Stellt man es z.B. an den Anfang des Satzes, erhält man einen ungrammatischen Satz (2b). Daraus folgern wir, daß das unterstrichene sprachliche Element keine Konstituente des Satzes ist. Es kann höchstens Teil einer Konstituente des Satzes sein. 
-
-2a.	Die *Kommutationsprobe* ist eine Substitutions- oder *Ersetzungsprobe*. Dieses Verfahren dient dazu, Konstituenten mit gleicher Funktion im Satz festzustellen. Lassen sich zwei oder mehrere Ausdrücke füreinander austauschen, dann haben sie die gleiche Funktion im Satz.
-
-(3)	Der Professor hält einen Vortrag über Textlinguistik.
-	der Mann
-	der Dozent
-	die Frau
-	Der da vorne
-	die Studentin
-	er
-	sie
-	...
-Die untereinander stehenden Ausdrücke haben im Satz die gleiche Funktion. Man sagt, sie kommutieren miteinander. Miteinander kommutierende Ausdrücke bilden ein Paradigma (auch als System bezeichnet). 
-
-2b.	Die *Anaphorisierungsprobe* ist eine Substitutions- oder *Ersetzungsprobe*. Dieses Verfahren dient dazu, die Satzgliedklasse festzustellen, der eine Satzkonstituente angehört. Anaphern sind Ausdrücke, die auf einen Ausdruck im Vortext hinweisen. Das Pronomen er in (4) bezieht sich auf der Professor im davorstehenden Satz.
-
-(4)	Der Professor hält einen Vortrag über Textlinguistik. Er hat auch mehrere Bücher zu 	diesem Themenbereich veröffentlicht.
-
-Der Ausdruck Professor kommutiert außerdem mit einer speziellen Anapher, und zwar mit dem Pronomen er. Dies bedeutet, daß man das Wort Professor in ein und demselben Satz durch das Pronomen er ersetzen kann (5). Das ist deshalb möglich, weil sie im Satz dieselbe Satzgliedfunktion haben.
-
-(5)	Der Professor hält einen Vortrag über Textlinguistik.
-	Er
-
-Für jede Satzgliedklasse (Ergänzungsklasse) kann man im Prinzip eine spezielle Anapher finden. Auf diese Weise ist eine Satzgliedklassifizierung möglich. Die Anaphorisierungsprobe wirkt so wie die Kommutationsprobe entlang der paradigmatischen Achse (y-Achse).
-
-2c.	Die *Fragewortprobe* ist ebenfalls eine Ersetzungsprobe. Sie dient wie die Anaphorisierungsprobe der Ermittlung der Satzgliedklasse. Eine Konstituente des Satzes wird in einer durch ein entsprechendes Fragewort ersetzt, d.h. man versucht die betreffende Konstituente zu erfragen.
-
-(6a)	Der Professor hält einen Vortrag über Textlinguistik.
-(6b)	Wer         hält einen Vortrag über Textlinguistik?
-(6c)	Der Professor hält einen Vortrag worüber?
-(6d)	Worüber hält der Professor einen Vortrag?
-
-Die Fragewortprobe ist allerdings etwas schwieriger zu handhaben, weil sie gleichzeitig die Umstellung (Verschiebung) von Satzgliedern notwendig macht. Die Fragewortprobe besteht genau genommen aus zwei Tests: (a) der Verschiebeprobe (siehe 6d) und (b) dem Einsetzen eines entsprechenden Fragewortes. (a) ist ein syntagmatischer Test, (b) hingegen ein paradigmatischer. 
-
-3.	Die Eliminierungsprobe (auch *Weglaßprobe* oder *Tilgungsprobe* genannt) dient zur Ermittlung von obligatorischen und fakultativ auftretenden Konstituenten des Satzes. In der Valenzgrammatik wird betont, daß die Unterscheidung zwischen Ergänzungen und Angaben mit ihr nicht möglich ist.
-
-(6a)	Der Professor hält 	einen Vortrag	über Textlinguistik.
-(6b)	*Der Professor hält			über Textlinguistik.
-(7a)	Der Professor spricht mit seinen Studenten	über Textlinguistik.
-(7b)	Der Professor spricht mit seinen Studenten.
-(7c)	Der Professor spricht				über Textlinguistik.
-(7d)	Der Professor spricht.
-
-In (6b) sehen wir, daß das Verb halten obligatorisch eine Akkusativergänzung verlangt (einen Vortrag), während das bedeutungsähnliche Verb sprechen fakultative Ergänzungen aufweist (7). Läßt man obligatorische (d.h. syntaktisch notwendige) Ergänzungen weg, erhält man einen ungrammatischen Satz. Ist eine Ergänzung lediglich fakultativ (d.h. syntaktisch nicht notwendig), bleibt der Satz grammatisch richtig. 
-
-Manchmal wird die sogenannte *Reduktionsprobe* von der Tilgungsprobe unterschieden. Während bei der Tilgungsprobe eine beliebige Konstituente weggelassen wird, insofern der Satz dadurch nicht ungrammatisch wird, können bei der Reduktionsprobe auch syntaktisch notwendige Konstituenten weggelassen werden. Während das weggelassene Element nach der Tilgungsprobe  nicht mehr zu rekonstruieren ist, kann das weggelassene Element nach der Reduktionsprobe noch rekonstruiert werden, d.h. daß der Hörer in der Lage ist, die ausgelassene Konstituente zu ergänzen (vgl. Wöllstein-Leisten&Heilmann&Stepner&Vikner 1997: 16). 
-
-(1)	[Das Wasser] kocht. / [Es] kocht.  * __ kocht. 
-(2)	Hühner essen [Eier], Menschen essen [Eier].  Hühner essen __, Menschen essen Eier. 
-
-Ergibt sich wie in (2) eine elliptische Konstruktion, so wurde nur eine Konstituente getilgt. 
-
-
-4.	*Hinzufügungsprobe*
-
-Das Gegenteil der Tilgungsprobe.
-
-
-5.	*Koordinationsprobe*
-
-Wenn sich zwei oder mehrere Elemente eines Satzes durch eine koordinierende Konjunktion (wie und oder oder) verbinden lassen, bilden sie eine Konstituente. 
-(1)	[[Die Studenten] und [Professoren]] machen eine gemeinsame Exkursion. 
-(2)	[Der eine freut sich] und [der andere ärgert sich]. 
-(3)	eine [reizvolle] und [intelligente] Frau
-
-Andere Tests:
-Häufung, Akzentuierungsprobe (Satzakzent, Kontrastakzent)
-
-*Häufung*
-
-Bestimmte Ausdrücke (etwa Partikeln) können gehäuft werden, d.h. sie können gleichzeitig im Satz auftreten, ohne daß sie durch eine koordinierende Konjunktion (z.B. und) miteinander verbunden werden könnten, ohne daß sie frei im Satz verschiebbar wären (wie etwa Konstituenten im Satz) oder gemeinsam im Satz verschiebbar wären (wie etwa Bestandteile von Konstituenten). 
-
-(1)	Der Junge hat ja eben keinen Hunger. 
-(2)	*Der Junge hat ja und eben keinen Hunger. 
-(3)	*Ja hat der Junge eben keinen Hunger.
-(4)	*Eben hat der Junge ja keinen Hunger. 
-(5)	*Ja eben hat der Junge keinen Hunger. 
-
-
-*Akzentuierung*
-
-Durch entsprechende Akzentuierung und Herstellung eines entsprechenden Kontextes zeigt sich erst, ob eine bestimmte Satzform in einer Sprache möglich ist. 
-
-
-
-Nachdem vier grundlegende Verfahren zur Identifizierung von Satzkonstituenten und ihrer Rolle im Satz vorgeführt wurden, soll in den nächsten Absätzen einige der möglichen *Schwierigkeiten* gezeigt werden, die *bei der Verwendung dieser Verfahren* auftreten können. Die Verschiebeprobe liefert beispielsweise nicht in allen Fällen eindeutige Ergebnisse, d.h. man kann mit ihr nicht immer eindeutig nachweisen, daß ein sprachliches Element keine Konstituente des Satzes ist. In (3) ist dieses Problem veranschaulicht. 
-
-(3a)	Der Professor hält einen Vortrag über Textlinguistik.
-(3b)	Über Textlinguistik hält der Professor einen Vortrag. 
-
-Die unterstrichene Präpositionalphrase in (3a) läßt sich frei im Satz verschieben, z.B. an den Anfang des Satzes. Ist diese Phrase dann etwa auch eine Konstituente des Satzes? Die Verschiebeprobe legt dies nahe. Dagegen spricht allerdings das Dependenzprinzip (ein semantisch begründetes Prinzip), denn man kann zeigen, daß die Präpositionalphrase über Textlinguistik vom Nomen Vortrag regiert (verlangt) wird und nicht vom Verb halten. Das Nomen Vortrag fordert folgende Ergänzungen: eine Person, die vorträgt, und einen Gegenstand, der von der Person vorgetragen wird. Die handelnde Person wird als Satzsubjekt am Satzanfang genannt und braucht daher nicht als Genitivattribut in der Nominalphrase wiederholt zu werden, der Gegenstand des Vortrags in der Präpositionalphrase. Das Verb halten fordert ebenfalls eine handelnde Person (als Subjekt im Satz) und einen Gegenstand, fordert allerdings im Gegensatz zum Nomen Vortrag, daß der Gegenstand als Nomen im Akkusativkasus realisiert wird: 
-
-	vgl. halten <(Person: nom), (Gegenstand: akk)> 
-	vs. Vortrag <(Person: gen), (Gegenstand: prp)>. 
-
-Die Präpositionalphrase über Textlinguistik kann demnach nicht der geforderte Gegenstand sein, sondern nur die Nominalphrase einen Vortrag, die im Akkusativ steht. Umgekehrt könnten wir die Präpositionalphrase über Textlinguistik in (3) auch durch die Nominalphrase die Textlinguistik ersetzen, weil ein ungrammatischer Satz entstehen würde. Die Kommutationsprobe (d.h. der Austausch der Präpositionalphrase durch eine Nominalphrase) zeigt somit, zwischen welchen Teilen des Satzes engere Abhängigkeitsbeziehungen bestehen. Das Abhängigkeitsprinzip legt demnach über die Valenzbeziehungen zwischen den Satzelementen nahe, daß die Präpositionalphrase über Textlinguistik keine unmittelbare Konstituente des Satzes, sondern lediglich eine unmittelbare Konstituente der Nominalphrase mit dem Nomen Vortrag ist. Einen Teil einer Satzkonstituente (oder eines Satzgliedes) nennt man auch ein Attribut. Die Eliminierungsprobe unterstützt in diesem Fall das Ergebnis, das die Kommutationsprobe erbracht hat, denn sie zeigt, daß die ausgelassene Nominalphrase ein obligatorischer Bestandteil des Satzes ist, während dies für die Präpositionalphrase nicht zutrifft: Läßt man nämlich einen Vortrag in (3) aus, dann erhalten wir einen ungrammatischen Satz (3c). 
-
-(3a)	Der Professor hält einen Vortrag über Textlinguistik.
-(3c)	*Über Textlinguistik hält der Professor. 
-
-Die Nominalphrase  einen Vortrag (samt Präpositionalattribut über Textlinguistik) ist somit eine obligatorische Ergänzung des Verbs. Daß die Ergänzung einen Vortrag obligatorisch im Satz mit dem Verb halten vorkommen muß, zeigt die Eliminierungsprobe. 
-
-Die semantischen und syntaktischen Verhältnisse in (3) liegen allerdings noch komplizierter, denn bei genauerer Überlegung sieht man, daß das Nomen Vortrag und das Verb halten zusammen das Prädikat des Satzes bilden, d.h. semantisch eine Einheit bilden. Beide Varianten haben die Grundbedeutung: “etwas vor einem Auditorium sprachlich vermitteln”. Das kann man nachweisen, indem man beide Ausdrücke durch einen Ausdruck ersetzt, und zwar Vortrag halten durch vortragen. Wenn Vortrag und halten nun gemeinsam das Prädikat bilden, könnte man die Präpositionalphrase über Textlinguistik dennoch für eine unmittelbare Konstituente des Satzes halten. Dann wäre  auch verständlich, warum sich die Präpositionalphrase frei im Satz verschieben läßt. 
-
-Versucht man nun das einfache Verb vortragen in (3) statt des komplexen Ausdrucks einen Vortrag halten einzusetzen, stößt man jedoch auf Schwierigkeiten. Die beiden Varianten haben zwar dieselbe Grundbedeutung (4), das einfache Verb ist jedoch nicht in (3) einsetzbar.
-
-(3a)	Der Professor hält einen Vortrag über Textlinguistik.
-(3d)	*Der Professor trägt über Textlinguistik vor. 
-(3e)	Der Professor trägt einen Text vor. 
-
-Das einfache Verb ist nicht in (3) einsetzbar, weil es eine andere syntaktische Valenz hat. Es fordert nämlich (wie das Verb halten) keine Präpositionalphrase als Objekt (3d), sondern eine Nominalphrase mit einem Nomen im Akkusativ Text (3e). Die Äußerung (3a) zeigt im Vergleich mit (3e) auch einen kleinen, aber wichtigen semantischen Unterschied, der parallel zum syntaktischen verläuft: Verwendet man das komplexe Prädikat einen Vortrag halten, dann nennt man in der Präpositionalphrase den Bereich, über den gesprochen wird. Verwendet man hingegen das einfache Verb vortragen, dann nennt man im Akkusativkasus den Gegenstand und nicht den Bereich. Der Gegenstand in (3e) ist ein Text, d.h. eine inhaltlich zusammenhängende Folge von Äußerungen. Dieser Text kann schriftlich fixiert sein und damit auch in konkreter Form auf Papier vorliegen. Der Bereich ist ein abstrakterer Gegenstand als der Text. Er ließe sich allenfalls mit einer Skizze konkretisieren. 
-
-Der Vergleich von (3a) mit (3f) ergibt noch einen weiteren syntaktischen und gleichzeitig semantischen Unterschied.
-
-(3a)	Der Professor hält einen Vortrag über Textlinguistik.
-(3f)	Der Professor trägt einen Text über Textlinguistik vor. 
-
-Das einfache Verb vortragen hat zwar dieselbe Grundbedeutung wie einen Vortrag halten (siehe oben), aber das komplexe Prädikat einen Vortrag halten enthält noch ein weiteres semantisches Merkmal, nämlich das Merkmal Gegenstand. Dieses Merkmal wird durch das Nomen Vortrag realisiert. Der Vortrag läßt sich ja genau genommen paraphrasieren als “Text, der vorgetragen wird”. Dies bedeutet, daß der Begriff ein Text in das Wort Vortrag hineinverlegt (inkorporiert) worden ist. Demnach ist es richtiger, das komplexe Prädikat einen Vortrag halten mit dem komplexen Prädikat einen Text vortragen zu paraphrasieren (3g):
-
-(3a)	Der Professor hält einen Vortrag über Textlinguistik.
-(3g)	Der Professor trägt einen Text über Textlinguistik vor. 
-
-Die Äußerung (3a) mit dem Nominalisierungsverbgefüge einen Vortrag halten entpuppt sich damit als verkürzender Ausdruck für das morphologisch komplexe (und außerdem auch trennbare) Verb vortragen und dessen Akkusativobjekt einen Text. Will der Sprecher lediglich den Bereich nennen, über den die Rede ist, verwendet er das Nominalisierungsverbgefüge. Wenn er aber den konkreten Text(gegenstand) nennen will, verwendet er das komplexe Verb vortragen (z.B. ein Gedicht vortragen). Die beiden Ausdrücke einen Vortrag über etwas halten und etwas über etwas vortragen sind demnach nur scheinbar völlig bedeutungsgleich, was sich durch ihre unterschiedliche Verwendbarkeit zeigt. 
-
-Was hat die Untersuchung von Äußerung (3) nun für die Lösung der Frage gebracht, ob die Präpositionalphrase über Textlinguistik in (3a) eine Konstituente des Satzes ist oder nicht? Mein Lösungsvorschlag ist folgender: 
-
-Berücksichtigt man das Dependenzprinzip (und die damit zusammenhängenden Subkategorisierungsrahmen des Verbs halten und des Nomens Vortrag) ist es angemessener, davon auszugehen, dass die Präpositionalphrase über Textlinguistik semantisch und syntaktisch direkt vom Nomen Vortrag abhängig ist und lediglich aufgrund der besonders engen semantisch-syntaktischen Verbindung zwischen dem Verb halten und Vortrag syntaktisch weder eindeutig als Attribut noch als Satzkonstituente eingeordnet werden kann.
-
-In (3a) ist die Präpositionalphrase zwar direkt abhängig vom Nomen Vortrag (und demnach dessen Attribut); da aber einen Vortrag halten eine semantische Einheit bildet und in Satz (3a) als komplexes Prädikat auftritt, scheint es folgerichtig, die vom komplexen Prädikat abhängige Präpositionalphrase auch als Konstituente des Satzes und damit als Satzglied zu behandeln. Die Präpositionalphrase hat somit Zwitterstatus: gleichzeitig Attribut und Satzglied. 
-
-In (3g) hat das Verb vortragen im Gegensatz zum Verb halten in (3a) volle lexikalische Bedeutung und nicht lediglich Funktionsverbcharakter oder Nominalisierungsverbcharakter (d.h. halten hat vor allem eine strukturelle Funktion, die darin besteht, die zweite Stelle im Aussagesatz durch einen Ausdruck mit Finitheitsmerkmalen zu besetzen). Die Nominalphrase einen Text mit einem Nomen im Akkusativ ist abhängig von einem Vollverb, als Ergänzung des Verbs einzuordnen (d.h. als eine valenzbedingte Art von Satzglied) und außerdem Konstituente des Satzes, da sie sich im Satz frei verschieben läßt. Die Präpositionalphrase über Textlinguistik ist abhängig von einer Konstituente des Satzes, nämlich von dem Akkusativobjekt einen Text und daher lediglich Attribut. Sie ist unmittelbare Konstituente des Akkusativobjekts und nur eine indirekte Konstituente des Satzes. 
-
-Die beiden folgenden Dependenzdiagramme sollen dies veranschaulichen: In (3a) steht das Nomen Vortrag auf erster Abhängigkeitsstufe, die Präpositionalphrase über Textlinguistik auf zweiter und dritter Abhängigkeitsstufe. Die “Abhängigkeitsdistanz” beträgt somit 1. In (3g) steht das Verb vortragen (das dieselbe Grundbedeutung hat wie das Nomen Vortrag) auf nullter Abhängigkeitsstufe, die Präpositionalphrase über Textlinguistik auf zweiter und dritter Abhängigkeitsstufe. Die “Abhängigkeitsdistanz” ist also größer als in (3a) und beträgt 2. Die Präpositionalphrase ist in (3a) nur indirekt abhängig vom regierenden Verb halten, direkt abhängig dagegen vom regierenden Nomen Vortrag, das mit dem Verb vortragen in (3g) stammgleich und von der Grundbedeutung her damit äquivalent ist. Die Präpositionalphrase ist in (3g) nur indirekt abhängig vom regierenden Verb vortragen, direkt abhängig dagegen vom regierenden Nomen Text. Das Nomen Vortrag hat zwar wie das Verb vortragen eine gemeinsame Bedeutungskomponente (“etwas vor einem Auditorium sprachlich vermitteln”), daneben aber auch noch die Bedeutungskomponente "Text". Durch diese zusätzliche Bedeutungskomponente ist es ein ausgezeichneter Kandidat für die Objektstelle des Verbs vortragen. 
-
-
+Durch die Segmentierung von Äußerungen erhält man ein Lautinventar, d.h.
+eine Liste aller Laute einer Sprache. Je genauer man die Untersuchung
+betreibt, desto länger wird die Liste; jeder Laut hat nämlich beliebig
+viele Varianten - in Abhängigkeit von verschiedenen lautlichen
+Umgebungen und verschiedenen Sprechern.
+
+Das Lautinventar gilt als Grundlage für den nächsten Schritt, die
+Ermittlung von Phonemen (Lautmustern) und des Phoneminventars einer
+Sprache. Als Beispiel folgt ein Lautinventar der deutschen Sprache aus
+Gross (21990: 36-37), das allerdings nicht alle Lautrealisierungen im
+Deutschen auflistet.
+
+<img src="pictures/01b_NSG_Intro_2020-10-07/deutsche_phone.png" width="218" />
+
+Eine etwas umfangreichere Liste von Lauten der deutschen Sprache finden
+sich z.B. im Duden (1973: 23-24). Zum slowenischen Lautinventar vgl.
+Toporišič (21991: 39ff.).
+
+### Exkurs Wals Online
+
+Zur Orientierung
+sollen einige Angaben zur Phoneminventargröße herangezogen werden. In
+der
+Untersuchung von Ian Maddieson (Consonant Inventories, In: Wals 2005)
+findet
+man folgende Angaben zur **Größe von
+Konsonanteninventorien** in den Sprachen der Welt (gemeint sind
+Konsonantenphoneme):
+
+ 
+
+|     | **Consonant      
+       Inventory Size**  |     |
+|-----|------------------|-----|
+| 1\. | Small            | 91  |
+| 2\. | Moderately small | 121 |
+| 3\. | Average          | 181 |
+| 4\. | Moderately large | 116 |
+| 5\. | Large            | 53  |
+| \@  | Total            | 562 |
+
+ 
+
+·       Die **typischere Konsonanteninventargröße** liegt in den unteren
+Zwanzigern, wobei der Mittelwert für die 562 Sprachen 22,7 beträgt, der
+Modus 22 und der Median 21. Konsonanteninventare in der Nähe dieser
+Größe (**22 ± 3**) wurden als **durchschnittlich** kategorisiert, und
+der Rest unterteilt in die Kategorien klein (von 6 bis 14 Konsonanten),
+mäßig klein (15-18), mäßig groß (26-33) und groß (34 oder mehr
+Konsonanten).
+
+·       **Slowenisch** kann wie **Deutsch** oder Britisches Englisch in
+die Gruppe mit **durchschnittlich** vielen Konsonantenphonemen
+(»average«) eingeordnet werden (19  Konsantenphoneme: p, t, k, b, d, g,
+f, v, s, z, s, S, j, Z, x, m, n, r, l).
+
+·       Rotokas (West Bougainville; Papua-Neuguinea) hat nur sechs
+Konsonanten: /p, t, k, b, d, g/. !Xóõ (Southern Khoisan; Botswana) hat
+122 Konsonanten, hauptsächlich weil es sehr viele verschiedene
+Klicklaute gibt, mit denen ein Wort beginnen kann.
+
+ 
+
+![](file:///D:/Users/teodo/TMP/msohtmlclip1/01/clip_image002.jpg)
+
+ 
+
+ 
+
+\
+
+In Maddieson
+(in: Wals 2005) finden wir folgende Angaben zur Größe von
+**Vokalinventorien** (gemeint sind Vokalphoneme):
+
+ 
+
+|     | **Vowel                 
+       Quality Inventory**      |        |     |
+|-----|-------------------------|--------|-----|
+| 1\. | Small vowel inventory   | (2-4)  | 92  |
+| 2\. | Average vowel inventory | (5-6)  | 288 |
+| 3\. | Large vowel inventory   | (7-14) | 183 |
+| §   | Total                   |        | 563 |
+
+ 
+
+![](file:///D:/Users/teodo/TMP/msohtmlclip1/01/clip_image004.jpg)
+
+ 
+
+·       Der **Umfang** des kleinsten erfassten Vokalqualitätsinventars
+ist 2 und des größten 14.
+
+·       Es gibt 4 Sprachen in der Stichprobe mit **nur zwei**
+kontrastierenden Vokalqualitäten. Ein Beispiel für dieses Extrem ist
+Yimas (Lower Sepik-Ramu; Papua-Neuguinea).«
+
+·       Nur eine Sprache in der Stichprobe, **Deutsch**, verwendet 14
+Vokalqualitäten (i, I, e, E, a, A, O, o, U, u; y, Y, 9, 2; die
+Phonemvarianten \@ in *bitt[e]{.ul}* und 6 in *bess[er]{.ul}
+nicht berücksichtigt*) »und nur 2 verwenden 13 Vokalqualitäten, nämlich
+die
+hier enthaltene Variante des britischen Englisch and Bété (Kru,
+Niger-Congo;
+Côte d'Ivoire).
+
+·      Deutlich mehr Sprachen haben einen Bestand von **fünf Vokalen**
+als jede andere Zahl -- 188 oder etwas mehr als ein Drittel. Die
+zweithäufigste Inventargröße sind **sechs
+Vokalqualitäten** mit 100 Sprachen (oder 17,8% der Stichprobe).
+
+·      
+Vokalqualitätsinventare mit 5 oder 6 Mitgliedern wurden in der Kategorie
+„Durchschnitt"
+zusammengefasst, während solche mit 4 oder weniger als „klein" und
+solche mit 7
+oder mehr als „groß" eingestuft werden. Sprachen mit
+„durchschnittlicher" Vokalinventargröße machen mehr als die Hälfte der
+Stichprobe aus (51,2 %), etwa ein Drittel (32,5%) hat „große"
+Vokalqualitätsinventare und nur 16,3 % haben „kleine"
+Vokalqualitätsinventare.
+
+·     **Slowenisch** verfügt in betonten Silben über 7 verschiedene
+Vokalqualitäten, die distinktiv genutzt werden (i, e, E, a, O, o, u) und
+kann damit (mit nur etwa halb so vielen
+distinktiv genutzten Vokalqualitäten) in dieselbe Gruppe eingeordnet
+werden wie
+**Deutsch** oder **Britisches Englisch**, die (mit 14 bzw. 13 distinktiv
+genutzten
+Vokalqualitäten) am oberen Ende dieser Gruppe anzusiedeln sind.
+
+·      **In unbetonten Silben** ist die Anzahl der distinktiv genutzten
+Vokalqualitäten gewöhnlich kleiner, so auch im **Slowenischen** (keine
+hohen oder mittelhohen Vokale i, e, u) und **Deutschen** (lediglich \@,
+6).
+
+**Konsonanten-Vokal-Verhältnis** in den Sprachen der
+Welt (Maddieson, in Wals 2005):
+
+ 
+
+·      Das Verhältnis wird einfach durch Division der Anzahl der
+Konsonanten (C) durch die Anzahl der Vokalqualitäten (VQ) berechnet und
+wird als C/VQ-Verhältnis bezeichnet.
+
+·      Die resultierenden Zahlen reichen von einem Tief von nur etwas
+über 1 bis zu einem Hoch von 29. Der niedrigste Wert unter den 563
+Sprachen, für die er berechnet wurde, wird von Andoke (isoliert;
+Kolumbien) repräsentiert, das 10 Konsonanten und 9 Vokalqualitäten hat.
+Die höchste Zahl wird von Abkhaz (Nordwestkaukasier; Georgien)
+repräsentiert, das mit 58 Konsonanten, aber nur 2 Vokalqualitäten
+analysiert
+wird. Das Verhältnis bewegt sich somit zwischen 1,11 und 29, aber die
+häufigeren Werte liegen näher am unteren Ende der Spanne: der Mittelwert
+beträgt 4,25 und der Median 3,5.
+
+·      Die Sprachen wurden in fünf Kategorien eingeteilt, basierend auf
+der Aufteilung des Bereichs in geeignete Schritte unterhalb, nahe und
+oberhalb des Medians, um ein Histogramm mit annähernd normaler
+Verteilung zu erstellen. Sprachen mit einem Verhältnis von 2,0 oder
+weniger wurden als „niedriges" C/VQ-Verhältnis eingestuft. Diejenigen
+mit einem Verhältnis über 2,0, aber unter 2,75 wurden als „mäßig
+niedrig"
+eingestuft. Personen mit einem Verhältnis von 2,75 oder höher aber
+kleiner als
+4,5 wurden als „durchschnittlich", solche mit Werten von 4,5 oder höher
+aber
+kleiner als 6,5 als „mäßig hoch" und solche mit Werten über 6,5 als
+„hoch"
+eingestuft. Nur 10 Sprachen haben Verhältnisse von 12 oder höher.«
+
+·       **Slowenisch** gehört in die Gruppe »**moderately low**«,
+**Deutsch** und **Britisches Englisch** aufgrund der vielen distinktiv
+genutzten Vokalqualitäten in die Gruppe »**low**«.  
+
+ 
+
+|       | **Consonant-Vowel-Ratio** |     |
+|-------|---------------------------|-----|
+| 1\.   | Low                       | 59  |
+| 2\.   | Moderately low            | 97  |
+| 3\.   | Average                   | 234 |
+| 4\.   | Moderately high           | 102 |
+| 5\.   | High                      | 71  |
+| total | 563                       |     |
+
+![](file:///D:/Users/teodo/TMP/msohtmlclip1/01/clip_image006.jpg)
+
+ 
+
+**Silbentypen in den Sprachen der Welt** (Maddieson, in:
+Wals 2005).
+
+·       • Die einzige
+Silbenart, die **in jeder Sprache** vorzukommen scheint, ist **CV**, dh
+eine Silbe, die aus nur einem Konsonanten vor einem Vokal besteht. In
+relativ
+wenigen Sprachen ist dies die einzige erlaubte Silbenart. Zu diesen
+Sprachen gehören
+Hawaiianisch und Mba (Adamawa-Ubangian, Niger-Kongo; Demokratische
+Republik
+Kongo). Häufiger findet man Sprachen, in denen der Anfangskonsonant
+nicht
+erlaubt ist, wie zum Beispiel in Fidschian, Igbo (Niger-Kongo; Nigeria)
+und
+Yareba (Yareban; Papua-Neuguinea). Für diese Sprachen kann die
+kanonische Silbe
+als (C)V dargestellt werden, wobei die Klammern angeben, dass ein
+Anfangskonsonant ein optionales Element ist. Wenn eine Sprache nur
+Silben
+zulässt, die in diese Vorlage passen, spricht man von einer einfachen
+Silbenstruktur.
+
+·       • Eine etwas **aufwändigere Silbenstruktur** verfügt über einen
+weiteren
+Konsonanten, entweder am Ende der Silbe oder am Anfang, was die
+Strukturen CVC
+und CCV ergibt; beides sind mäßige Erweiterungen des einfachen
+CV-Silbentyps.
+Es lohnt sich jedoch, zwischen zwei Arten von zweigliedrigen
+Konsonantenketten
+zu unterscheiden. In einer sehr großen Anzahl von Sprachen sind zwar
+zwei
+Konsonanten am Anfang einer Silbe erlaubt, es gibt jedoch strenge
+Grenzen für
+die zulässigen Kombinationen. Der zweite von zwei Konsonanten ist
+gewöhnlich
+darauf beschränkt, einer aus einer kleinen Menge zu sein, die entweder
+zur
+Klasse der Liquide oder der Klasse der Gleitlaute gehört. Die Liquide
+sind die
+Laute, die üblicherweise durch die Buchstaben \<r\> und \<l\>
+dargestellt werden, während Glides vokalähnliche Konsonanten sind, wie
+die am Anfang der slowenischen Wörter \<vlak\> und \<jarem\>. Liquiden
+und Gleitlauten ist gemeinsam, dass ihre Bildung einen relativ
+ungehinderten Luftstrom aus dem Mund ermöglicht. Sprachen, die einen
+einzelnen Konsonanten nach dem Vokal zulassen und/oder zwei Konsonanten
+vor dem Vokal zulassen, sich aber nur an die oben beschriebenen üblichen
+zweigliedrigen Konsonantenmuster halten, werden als **mäßig komplexe
+Silbenstruktur** gezählt. Ein Beispiel ist Darai (Indoarisch; Nepal).
+Hier ist CCVC die am stärksten erlaubte Silbe, wie in
+/bwak/ „(sein) Vater", aber der einzig mögliche zweite Konsonant in
+einer Folge von zwei ist /w/.
+
+·       Sprachen, die freiere Kombinationen von zwei Konsonanten in der
+Position vor einem Vokal oder drei oder mehr Konsonanten in dieser
+Anfangsposition und/oder zwei oder mehr Konsonanten in der Position nach
+dem Vokal zulassen, werden als **komplexe
+Silbenstruktur** klassifiziert. Ein offensichtliches Beispiel für eine
+komplexe Struktur ist das Englische, dessen kanonisches Silbenmuster oft
+als (C)(C)(C)V(C)(C)(C)(C) zitiert wird. Die volle Ausdehnung des
+Musters findet nur in wenigen Wörtern statt, wie zum Beispiel
+\<strengths\>, wenn sie /strENkTs/ ausgesprochen werden, aber es ist
+relativ einfach, Silben zu finden, die mit drei Konsonanten beginnen
+oder mit vier enden, wie in \<split\> und \<texts\> (/tEksts/).
+
+·       Die Einteilung von Sprachen in drei Kategorien der
+Silbenkomplexität (einfach, moderat und komplex) übersieht natürlich
+viele andere Fragen der Segmentverteilung (zum Beispiel, ob die Silben
+am Anfang und am Ende von Wörtern die gleichen oder andere
+Einschränkungen haben als die wortinternen) oder wichtige Unterschiede
+außer
+Acht lassen, wie selten oder häufig die komplexeren Silbentypen in einer
+bestimmten Sprache vorkommen. Wenn zum Beispiel einige Arten von
+Konsonantensequenzen erst kürzlich durch das Entlehnen internationaler
+Wörter (wie Sport oder Golf) in eine Sprache eingeführt wurden, wird die
+Sprache nach dem, was im etablierteren Vokabular vorkommt,
+klassifiziert. Trotz ihres zusammenfassenden Charakters bietet die
+Drei-Wege-Klassifikation eine sinnvolle Gruppierung mit interessanten
+geografischen Merkmalen.
+
+·       Slowenisch und Deutsch lassen sich wie Englisch in die Gruppe
+der Sprachen mit komplexen Silbenstrukturen einordnen.
+
+ 
+
+|     | **Complexity of Syllable structure** |     |
+|-----|--------------------------------------|-----|
+| 1\. | Simple syllable                      
+       structure                             | 61  |
+| 2\. | Moderately                           
+       complex syllable structure            | 274 |
+| 3\. | Complex syllable                     
+       structure                             | 150 |
+| \@  | total                                | 485 |
+
+ 
+
+## Aufgabenbereich Phonemik
+
+Die Phonemik erforscht Lautsysteme. Ihre Aufgabe besteht also darin,
+"die Beziehungen der Laute einer gegebenen Sprache zueinander zu
+analysieren, um so das Lautsystem zu beschreiben." (SSM 1: 2) In der
+Tagmemik, einer wichtigen Richtung des amerikanischen Strukturalismus
+(Hauptvertreter K. L. Pike), werden alle sprachlichen Einheiten unter
+drei Gesichtspunkten untersucht: • Opposition, • Variation und •
+Distribution.
+
+1.3.1 Opposition
+
+Die Wortpaare (oder besser: Lautfolgen) in den folgenden Beispielen
+unterscheiden sich jeweils nur durch einen Laut. Diejenigen Laute, die
+sich voneinander unterscheiden (also distinktive phonetische Merkmale
+aufweisen), stehen in Opposition (nach einer anderen Ausdrucksweise "in
+paradigmatischem Kontrast") zueinander, womit gesagt sein soll, daß sie
+bedeutungsunterscheidende Funktion haben. (8) Deutsch: [lant] "Land" vs.
+[vant] "Wand" (9) Slowenisch: [ko:s] "kos" (Stück) vs. [vo:s] "voz"
+(Wagen) (10) Englisch: [f] "fish" (Fisch) vs. [d] "dish" (Gefäß)
+
+Somit müssen [l] und [v] im deutschen Beispiel, [k] und [v] im
+slowenischen und [f] und [d] im englischen jeweils zwei Phonemen
+zugeordnet werden: in (8) den Phonemen /l/ und /v/, in (9) den Phonemen
+/k/ und /v/ und in (10) den Phonemen /f/ und /d/.
+
+Opposition ist eine paradigmatische Beziehung, Kontrast dagegen eine
+syntagmatische. Eine Opposition ist eine symmetrische Beziehung zwischen
+sprachlichen Lauten. In Lautfolgen wie <fast> und <Rast> steht der
+Obstruent [f] in Opposition zum Liquid [R] und umgekehrt. Kontrast ist
+dagegen eine asymmetrische Beziehung zwischen sprachlichen Lauten (vgl.
+Eisenberg 1998: 88). In einer Form wie <Frau> steht der Liquid /r/ in
+Kontrast zum Obstruenten /f/, während der Obstruent /f/ in dieser
+Position nicht in Kontrast zum Liquid /r/ stehen kann, da eine
+(einsilbige) Form wie *[rfao] nicht vorkommt. In anderen Umgebungen
+kontrastiert der Obstruent durchaus mit dem Liquid, z.B. in [Wurf], aber
+der Liquid nicht mit dem Obstruenten* [Wufr]. Beide Lautfolgen (d.h.
+[fr] und [rf]) sind somit an unterschiedliche Kontexte gebunden. Der
+Kontrastbegriff ist die Grundlage für die Ermittlung der phonotaktischen
+Kombinationsmöglichkeiten (Lautkombinatorik) in einer Sprache. Als
+operationale Verfahren zur Ermittlung einer Opposition verwenden wir die
+Kommutations- oder Substitutionsprobe, zur Ermittlung eines Kontrastes
+dagegen die Permutations- oder Verschiebeprobe. Die in den oben
+angeführten Beispielen durchgeführte Kommutationsprobe nennt man
+übrigens auch den Minimalpaartest. ( vgl. auch in der Dudengrammatik,
+Band 4 (1995: 32-33) über die funktionalen Eigenschaften Opposition und
+Kontrast am Beispiel des Wortes Markt).
+
+1.3.2 Variation
+
+Zwei verschiedene Laute einer Sprache stehen nicht immer in Opposition
+zueinander. Können verschiedene Laute nicht als Phoneme eingeordnet
+werden, dann besteht die Möglichkeit, daß es sich um Varianten eines
+einzigen Phonems (auch Allophone genannt) handelt. Phonemvariation kann
+frei oder stellungsgebunden sein.
+
+(11) Deutsch: [] vs. [] vs. [] "Regen"
+(12) Slowenisch: [] tanek "dünn", masc. vs. [] tanka "dünn",
+     fem.
+
+Im deutschen Wort Regen (11) kann der r-Laut verschieden realisiert
+werden, ohne daß sich dadurch die Bedeutung der Lautfolge verändern
+würde. Im Deutschen sind die drei r-Laute [R], [] und [r] freie
+Varianten eines einzigen Phonems, d.h. fakultative Allophone des Phonems
+/r/. Auch im Slowenischen können die oben genannten r-Laute frei
+variieren, ohne die Wortbedeutung zu verändern. In der slowenischen
+Standardsprache ist allerdings im Unterschied zur deutschen nur das [r],
+d.h. das sogenannte Zungenspitzen-r üblich. In einer anderen Sprache
+können verschieden realisierte r-Laute allerdings auch in Opposition
+zueinander stehen und somit als zwei verschiedene Phoneme eingeordnet
+werden (z.B. im Spanischen ein langer und ein kurzer r-Laut).
+
+Das Phonem /n/ kann im Slowenischen (12) je nach Lautumgebung als
+dental-alveolares [n] oder als velares [] realisiert werden. Vor einem
+Vokal beispielsweise wird die erste Variante ausgesprochen, vor [k], [g]
+und [x] die letztere (Toporišič 21991: 71). Das Phonem /n/ weist demnach
+im Slowenischen (neben anderen hier nicht aufgeführten) zumindest zwei
+stellungsbedingte Allophone (positionsabhängige oder stellungsgebundene
+oder kombinatorische Allophone) auf. Im Slowenischen sind die beiden
+Allophone komplementär verteilt (d.h. daß das [n] nicht in allen
+Lautumgebungen vorkommt, in denen [] auftritt, und umgekehrt). Auch im
+Deutschen kommt der Laut [] nicht in allen Lautumgebungen vor (wie im
+Slowenischen ist er im Silbenanlaut ausgeschlossen), zum Teil aber
+stehen er deutlich in Opposition zum [n] (vgl. Wanne vs. Wange) und
+entsprechen damit in solchen Fällen der oben eingeführten
+Phonemdefinition, die mit Hilfe des Minimalpaartestes ermittelt werden
+kann.
+
+Der phonetische Unterschied in (12) ist demnach durch die Lautumgebung
+bestimmt. Man kann also von der lautlichen Umgebung her schließen,
+welchen phonetischen Wert das Phonem /n/ in dieser Umgebung hat. Somit
+sind die beiden Laute (Phone) im Slowenischen Varianten einer
+Lauteinheit (eines Phonems), und es genügt, ein einziges phonemisches
+Zeichen /n/ für beide phonetischen Varianten [n] und [] anzusetzen. Im
+Slowenischen wird dieses Verhalten auch in der Ortographie
+(Rechtschreibung) ausgedrückt, denn beide Realisierungsformen des
+Phonems werden durch das gleiche Graphem wiedergegeben (auch in
+Eigennamen, vgl. (13)). Im Deutschen ist dies jedoch nicht so, denn die
+beiden Laute werden gewöhnlich durch unterschiedliche Grapheme
+wiedergegeben (vgl. <n> Biene oder <nn> Wanne für den dental-alveolaren
+Nasal vs. <ng> Wange für den velaren Nasal). Die beiden deutschen
+Nasalkonsonanten könnten eher als zwei Phoneme gewertet werden, die
+beiden slowenischen Nasalkonsonanten dagegen nicht:
+
+(13) <Ana> vs. <Anka>.
+
+1.3.3 Distribution
+
+Beim Vergleich zweier Sprachen kann man oft feststellen, daß in beiden
+zwar derselbe Laut vorkommt, aber jeweils in unterschiedlicher Position.
+Der betreffende Laut hat in beiden Sprachen also eine unterschiedliche
+Verteilung oder Distribution. Dieser Umstand soll am Beispiel des
+velaren Nasalkonsonanten illustriert werden.
+
+Der velare Nasalkonsonant [] kommt in der deutschen Standardsprache in
+den folgenden Positionen vor: • im Wort- und Silbenauslaut nach
+ungespannten Vokalen (z.B. Ding, eng, Gang, Gong, Dung); • im Wort- und
+Silbenauslaut als Folge der Assimilation nach [g] und [k] in derselben
+Silbe (z.B. fragen, packen); • im Silbenauslaut vor [k] im Anlaut der
+nächsten Silbe (z.B. trin-ken); • im Silbenauslaut vor [g] im Anlaut der
+nächsten Silbe nur in Lehnwörtern (z.B. Tan-go, Un-garn, Lin-gu-ist); •
+im Wort- und Silbeninlaut vor [k] in derselben Silbe (z.B. Schank); • im
+Inlaut als sogenanntes Silbengelenk (d.h. gleichzeitig im Auslaut der
+ersten Silbe und im Anlaut der zweiten) vor Schwa [c] (z.B. hängen) oder
+als Folge von Assimilation vor sonantischem l (z.B. kling(e)ln).
+
+In der slowenischen Standardsprache tritt der velare Nasalkonsonant []
+in den folgenden Positionen auf: • im Silbenauslaut nach ungespannten
+Vokalen vor [g], [k] und [x] in der nächsten Silbe (z.B. An-hovo,
+Kon-go, Can-kar) • im Silbeninlaut nach ungespannten Vokalen vor [k] in
+derselben Silbe (z.B. tank).
+
+Aus dieser Gegenüberstellung ist ersichtlich, daß die Distribution des
+velaren Nasalkonsonanten im Slowenischen eingeschränkter ist als im
+Deutschen, denn im Slowenischen kann er nicht stehen: • im Silben- oder
+Wortauslaut, wenn kein [k] in derselben oder der nächsten Silbe folgt, •
+im Inlaut vor Schwa oder sonantischem l • im Auslaut nach [g] und [k]
+(d.h. aufgrund von Schwa-Reduktion und regressiver Nasalassimilation an
+einen velaren Obstruenten wie im deutschen Verb fragen).
+
+**Tabelle 2: Distribution von [N] im Deutschen und Slowenischen**
+
++-----------------------+-----------------------+-------------------+
+|                       | **Deutsch**           | **Slowenisch**    |
++=======================+=======================+===================+
+| **Wort- u.            |                       |                   |
+| Silbenanlaut**        |                       |                   |
++-----------------------+-----------------------+-------------------+
+| **Wort- u.            | vor [k]               | vor [k]           |
+| Silbeninlaut**        |                       |                   |
++-----------------------+-----------------------+-------------------+
+| **Wortinlaut          | vor [c] und           |                   |
+| (Silbengelenk)**      | [l,]                  |                   |
++-----------------------+-----------------------+-------------------+
+| **Silbenauslaut**     | nach                  | nach              |
+|                       | ungespann. Vokal:     | ungespann. Vokal: |
+|                       |                       |                   |
+|                       | vor [k]               | vor[k],           |
+|                       |                       |                   |
+|                       |                       | vor [g],          |
+|                       |                       |                   |
+|                       |                       | vor [x]           |
++-----------------------+-----------------------+-------------------+
+| **Wortauslaut**       | nach [g] und          |                   |
+|                       | [k] in unbetonter     |                   |
+|                       | Silbe (bei Schwa-     |                   |
+|                       | Ausfall)              |                   |
++-----------------------+-----------------------+-------------------+
+
+ 
+
+In einem Punkt ist allerdings im Deutschen die Distribution des velaren
+Nasalkonsonanten eingeschränkter, denn im Slowenischen kann der velare
+Nasalkonsonant vor [x] in der nächsten Silbe auftreten, im Deutschen
+jedoch nicht.
+
+Beide Sprachen haben u.a. gemeinsam, daß der velare Nasalkonsonant nicht
+im Silbenanlaut vorkommen kann. Diese Möglichkeit besteht in anderen
+Sprachen, z.B. im Kulunge, einer Sprache Nepals (SSM 1: 3).
+
+Im Rahmen der Lautdistribution wird auch die Häufigkeit des Vorkommens
+eines Lautes untersucht, anhand derer sich oft charakteristische
+Unterschiede zwischen Sprachen feststellen lassen (SSM 1: 3). So tritt
+z.B. [Ą] im Deutschen nur in wenigen Lehnwörtern auf (z.B. Genie,
+Garage) und hat daher eine eher periphere Stellung im Phonemsystem, im
+Französischen oder im Slowenischen hingegen tritt es in einer viel
+größeren Anzahl von Wörtern auf und gehört damit eher zum Kern des
+Phonemsystems (z.B. franz. je "ich", jour "Tag", pigeon "Taube"; slow.
+žena "(Ehe)frau", žoga "Ball", žaba "Frosch").
+
+## Phonem und Hierarchie
+
+Die phonologisch
+relevanten Einheiten können verschiedenen hierarchisch gegliederten
+Ebenen
+zugeordnet werden. Jede Einheit einer Ebene besteht aus Einheiten der
+darunterliegenden Ebene und dient gleichzeitig als Baustein für die
+Einheit der
+nächsthöheren Ebene. Die Anzahl der phonologisch relevanten Ebenen ist
+**theorieabhängig**. Die **Phonemebene** wird in phonologischen
+Modellen oft als die unterste Ebene der phonologischen Hierarchie
+angesetzt.
+Darüber liegen zumindest die **Silben- und** die **Wortebene**. In
+vielen
+Sprachen ist es oft nützlich, auch noch andere Ebenen anzusetzen, etwa
+eine **Akzentgruppenebene**, eine **Satzebene** und eine
+**Äußerungsebene** anzusetzen. Die Äußerungsebene ist hierarchisch über
+den anderen Ebenen angesiedelt (vgl. SSM 1: 3):
+
+·     Äußerungsebene
+
+·     ...
+
+·     Akzentgruppe
+
+·     Wortebene
+
+·     ...
+
+·     Silbenebene
+
+·     Phonemebene.
+
+ 
+
+## Phonemik im Fremdsprachenunterricht
+
+Bestimmte Laute
+kommen in (fast) allen Sprachen der Welt vor, z.B. bilabiale
+Verschlußlaute wie
+[p] und [b], wie [m] (bilabial) und [n] (dental-alveolar) oder der
+offenste
+Vokal [a]. Allerdings gibt es in jeder Sprache auch bestimmte Laute, die
+nicht
+benutzt werden, obwohl sie theoretisch möglich wären. Stattdessen wird
+bekanntlich in jeder eine bestimmte Auswahl getroffen.
+
+ 
+
+So gibt es z.B.
+im Deutschen oder Slowenischen kein *th*
+[đ] wie im Englischen, im Standardslowenischen kein [h] und [ç] wie im
+Deutschen oder im Englischen kein [x] wie im Deutschen. Oft haben beide
+Sprachen einen bestimmten Laut in ihrem Lautinventar, aber es können
+Unterschiede in dessen Distribution und/oder Häufigkeit bestehen (vgl.
+1.2.3).
+
+ 
+
+Die Phonemik
+hilft dem Fremdsprachenlernenden, sich des Lautsystems der eigenen
+Sprache wie
+auch des Lautsystems der Fremdsprache bewußt zu werden. Kennt man
+nämlich die
+Unterschiede der beiden Lautsysteme, kann man viele Aussprachefehler
+vermeiden
+und die Fremdsprache auch schneller und besser erlernen (SSM 1: 4).
+
+ 
+
+Im Deutschen
+stehen [x] und [h] in komplementärer Distribution (d. h. [h] erscheint
+in
+nativen Wörtern nur silbeninitial vor Vokal wie beispielsweise in
+\<[H]{.ul}aus\>,
+[x] dagegen in nativen Wörtern nach
+dem Vokal einer Silbe wie beispielsweise in \<na[ch]{.ul}\>)
+und können daher nicht zu einem Phonem zusammengefaßt werden. Der
+Laryngalkonsonant [h] steht
+allerdings in Oppostion zum Glottisverschlußlaut [?],
+so daß man nach der oben
+angeführten Definition von zwei Phonemen sprechen kann.
+Im Standardslowenischen ist [h] nicht einmal Bestandteil des
+Lautinventars. Im
+Slowenischen besteht somit kein phonemischer Unterschied zwischen [x]
+und [h].
+Daher können beide Laute im Slowenischen frei miteinander vertauscht
+werden,
+ohne daß dadurch ein Bedeutungsunterschied entsteht. Ein Slowene, der
+das
+Phonemsystem seiner eigenen Sprache und das der deutschen nicht kennt
+und sich
+damit der unterschiedlichen Funktion der beiden Laute in den beiden
+Sprachen
+nicht bewußt ist, wird große Mühe haben, den Unterschied zwischen [x]
+und [h]
+im Deutschen überhaupt zu hören und außerdem den Unterschied in seiner
+Aussprache korrekt auszuführen (vgl. SSM 1: 4 zum phonemischen Wert von
+[r] und
+[l] im Japanischen und Koreanischen).
+
+## Phonemik und Orthographie
+
+Die Phonemik ist
+notwendig bei der Erarbeitung eines angemessenen Alphabets. Das **ideale
+Alphabet** ist wohl - zumindest
+vom Standpunkt eines Schreibers oder Lesers auf einer bestimmten
+Zeitebene - **phonemisch**, d.h. jedem Phonem
+entspricht ein bestimmtes - und immer dasselbe - Schriftzeichen
+(**Graphem**). In den meisten
+Schriftsprachen ist das allerdings nicht der Fall, denn Phoneme und
+Grapheme
+(Buchstaben und Buchstabenverbindungen) sind keineswegs imer identisch.
+Die
+Aussprache von Wortformen in einer Sprache ändert sich mit der Zeit,
+während
+Graphemsysteme solche Veränderungen oft nur teilweise oder überhaupt
+nicht
+mitmachen. Graphemsysteme richten sich nach mehreren (oft
+gegensätzlichen) Gesichtspunkten.
+Das slowenische Graphemsystem ist zum Beispiel stärker phonemisch
+orientiert
+als etwa das deutsche, englische oder französische.
+
+ 
+
+(14)     Deutsch /i:/                [I]{.ul}gel                 \<i\>
+
+                                              
+v[ie]{.ul}l                 \<ie\>
+
+                                              
+[ih]{.ul}m                 \<ih\>
+
+                                              
+V[ieh]{.ul}                \<ieh\>
+
+(15)     Englisch /i/                 m[e]{.ul}ter              \<e\>
+
+                                              
+s[ee]{.ul}                  \<ee\>
+
+                                              
+s[ea]{.ul}                  \<ea\>
+
+                                               rec[ei]{.ul}ve           
+\<ei\>
+
+                                               bel[ie]{.ul}ve           
+\<ie\>
+
+                                               mach[i]{.ul}ne         
+\<i\>
+
+(16)     Französisch /o/           s[o]{.ul}t                   \<o\>
+
+                                              
+s[au]{.ul}t                 \<au\>
+
+                                              
+s[eau]{.ul}                \<eau\>
+
+                                               sc[eaux]{.ul}            
+\<eaux\>
+
+ 

@@ -1,6 +1,9 @@
 einführung
 gegenstand-und-sinn-der-phonologie
-äußerung
-prototypischer-satz
-syntaktische-grundbeziehungen
-identifikationsverfahren
+phonemik-vs.-phonetik
+aufgabenbereich-der-phonetik
+exkurs-wals-online
+aufgabenbereich-phonemik
+phonem-und-hierarchie
+phonemik-im-fremdsprachenunterricht
+phonemik-und-orthographie
