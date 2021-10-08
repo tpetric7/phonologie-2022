@@ -60,7 +60,7 @@ Sprachbetrachtung.
     und beschreibt das gesamte vorhandene Lautmaterial, ohne
     notwendigerweise Bezug auf eine bestimmte Sprache zu nehmen." (SSM
     1: 1). "Ihre Basis sind Erkenntnisse der Anatomie, Physiologie,
-    Neurologie und Physik." (Bußmann ^2^1990: 579).
+    Neurologie und Physik." [@bussmann1990lexikon : 579].
 
 -   Die **Phonemik** "betrachtet die zu beschreibende Sprache von innen,
     d.h. sie untersucht die Beziehung der Laute zueinander und deren
