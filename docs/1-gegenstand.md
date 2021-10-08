@@ -19,14 +19,14 @@ Grammatik einer Sprache umreißen.
 
 Der *Text* ist die umfangreichste und hierarchisch höchste kommunikative
 Einheit, die aus inhaltlich zusammenhängenden *Äußerungen* besteht und
-eine nachvollziehbare und sortenspezifische Struktur aufweist (Engel
-1988: 33).
+eine nachvollziehbare und sortenspezifische Struktur aufweist
+[@engel2008deutsche: 33].
 
 *Äußerungen* lassen sich als Laut- oder Schriftzeichenketten definieren,
 die von einem Sprecher zwischen zwei Pausen produziert werden und aus
-einem oder mehreren Sätzen bestehen können (Bußmann ^2^1990: 52). Im
-Gegensatz zu Sätzen sind sie *kommunikative* Einheiten und gehören somit
-auf die Ebene der *Performanz* oder Parole.
+einem oder mehreren Sätzen bestehen können [@bussmann1990lexikon : 52].
+Im Gegensatz zu Sätzen sind sie *kommunikative* Einheiten und gehören
+somit auf die Ebene der *Performanz* oder Parole.
 
 Die *Phoneme* (distinktive Sprachlauttypen) und *Phone* (Sprachlaute)
 gehören zu den kleinsten Einheiten eines mündlichen Textes.
@@ -38,11 +38,12 @@ wird er als Oberbegriff für alle Teildisziplinen verwendet, die die
 lautliche Seite von Sprache untersuchen, also als *Oberbegriff* für
 *Phonetik*, *Phonemik*, *Phonotaktik* und *Prosodie*. So wird der
 Ausdruck auch in amerikanischen sprachwissenschaftlichen Studien
-verwendet (Bußmann 21990: 581). In vielen wissenschaftlichen Arbeiten
-wird Phonologie im Sinne von Phonemik verwendet, also in einem
+verwendet [@bussmann1990lexikon : 58]. In vielen wissenschaftlichen
+Arbeiten wird Phonologie im Sinne von Phonemik verwendet, also in einem
 eingeschränkteren Sinne als in dieser Vorlesung. Der slowenische
 Ausdruck glasoslovje wird von Toporišič ebenfalls als Oberbegriff für
-die oben angeführten Teilgebiete verwendet (vgl. Toporišič 1992: 50).
+die oben angeführten Teilgebiete verwendet (vgl.
+[@toporivsivc1992slovenska : 50].
 
 ## Phonemik vs. Phonetik
 
@@ -70,12 +71,12 @@ Grundeinheiten:
 -   Als Grundeinheit der Phonetik wird das **Phon** (der Sprechlaut)
     genannt, d.h. die "kleinste durch Segmentierung (Zerlegung)
     gewonnene lautliche Einheit, die noch nicht als Repräsentant eines
-    bestimmten Phonems klassifiziert ist." (Bußmann ^2^1990: 576).
+    bestimmten Phonems klassifiziert ist." [@bussmann1990lexikon : 576].
 
 -   Die Grundeinheit der Phonemik ist das **Phonem**. Das Phonem ist ein
     Lauttyp und wird als Bezeichnung verwendet "für kleinste aus dem
     Schallstrom der Rede abstrahierte lautliche Segmente mit potentiell
-    bedeutungsunterscheidender Funktion." (Bußmann ^2^1990: 576).
+    bedeutungsunterscheidender Funktion." [@bussmann1990lexikon : 576].
 
 Die **Notation** von Phonen bzw. Phonemen unterscheidet sich
 voneinander.
@@ -92,10 +93,11 @@ stimmlosen bilabialen Verschlußlauten verdeutlicht werden.
 -   **Aus phonetischer Sicht** kommen in den englischen, deutschen und
     thailändischen Wörtern in (1), (2) und (3) zwei stimmlose bilabiale
     Verschlußlaute vor, und zwar [p^h^] und [p], in den slowenischen in
+
     (4) hingegen nur ein stimmloser bilabialer Verschlußlaut, und zwar
-    [p]. Vom Standpunkt der Phonetik besteht also in dieser Hinsicht ein
-    Unterschied zwischen dem Deutschen, Englischen und Thai einerseits
-    und dem Slowenischen andererseits.
+        [p]. Vom Standpunkt der Phonetik besteht also in dieser Hinsicht
+        ein Unterschied zwischen dem Deutschen, Englischen und Thai
+        einerseits und dem Slowenischen andererseits.
 
 -   **Aus phonemischer Sicht** kann man jedoch feststellen, daß die
     Verschlußlaute [p^h^] und [p] im Englischen und Deutschen in einem
@@ -122,7 +124,7 @@ stimmlosen bilabialen Verschlußlauten verdeutlicht werden.
 Die Phonetik ist eine Naturwissenschaft auf der Grundlage von Anatomie,
 Physiologie, Physik (Akustik) und Mathematik.
 
-Ihre Aufgabe ist nach Gross (^2^1990: 35) die materielle Analyse
+Ihre Aufgabe ist nach [@gross1990linguistik : 35] die materielle Analyse
 sprachlicher Äußerungen bzw. Laute als eine der Grundlagen
 
 -   der theoretischen Linguistik und Dialektologie und
@@ -131,7 +133,8 @@ sprachlicher Äußerungen bzw. Laute als eine der Grundlagen
     Sprachdidaktik und Computerlinguistik.
 
 Aus dem jeweiligen Ort im Kommunikationsprozeß (Sprecher - Text - Hörer)
-ergeben sich laut Gross (^2^1990: 36) **drei Teilgebiete der Phonetik**:
+ergeben sich laut [@gross1990linguistik : 36] **drei Teilgebiete der
+Phonetik**:
 
 -   Die **artikulatorische Phonetik** beschreibt die Produktion der
     Laute, und zwar nach Artikulationsart und Artikulationsort.
@@ -145,10 +148,10 @@ ergeben sich laut Gross (^2^1990: 36) **drei Teilgebiete der Phonetik**:
     sprachlicher Zeichen durch Ohr, Nervenbahnen und Gehirn. Neben rein
     physikalischen Gegebenheiten ist in diesem Teilgebiet immer ein
     gewisses Maß an nicht direkt meßbaren (semantischen,
-    psychologischen) Prozessen vorhanden (vgl. Neppert/Pétursson
-    ^3^1992: 8). Die auditive Phonetik ist das am wenigsten entwickelte
-    Teilgebiet der Phonetik. Jedes Teilgebiet verfügt über eigene
-    Grundeinheiten (vgl. Neppert/Pétursson ^3^1992: 8).
+    psychologischen) Prozessen vorhanden (vgl. [vgl.
+    @neppert1992elemente : 8]. Die auditive Phonetik ist das am
+    wenigsten entwickelte Teilgebiet der Phonetik. Jedes Teilgebiet
+    verfügt über eigene Grundeinheiten [vgl. @neppert1992elemente : 8].
 
 Im Rahmen des Phonetikunterrichts für Studenten der Germanistik,
 insbesondere Studenten des Deutschen als Fremdsprache, steht der
@@ -164,14 +167,15 @@ lautlichen Umgebungen und verschiedenen Sprechern.
 Das Lautinventar gilt als Grundlage für den nächsten Schritt, die
 Ermittlung von Phonemen (Lautmustern) und des **Phoneminventars** einer
 Sprache. Als Beispiel folgt ein **Lautinventar der deutschen Sprache**
-aus Gross (^2^1990: 36-37), das allerdings nicht alle Lautrealisierungen
-im Deutschen auflistet.
+aus [@gross1990linguistik : 36-37], das allerdings nicht alle
+Lautrealisierungen im Deutschen auflistet.
 
 <img src="pictures/01b_NSG_Intro_2020-10-07/deutsche_phone.png" width="60%" />
 
 Eine etwas umfangreichere Liste von Lauten der deutschen Sprache finden
-sich z.B. im Duden (1973: 23-24). Zum **slowenischen Laut- und
-Phoneminventar** vgl. Toporišič (^2^1991: 39ff.).
+sich z.B. in der Dudengrammatik [@grebe1973duden : 23-24]. Zum
+**slowenischen Laut- und Phoneminventar** vgl.
+[@toporivsivc1992slovenska : 39ff.].
 
 ## Aufgabenbereich Phonemik
 
@@ -228,8 +232,8 @@ die **Kommutations- oder Substitutionsprobe**, zur Ermittlung eines
 **Kontrastes** dagegen die **Permutations- oder Verschiebeprobe**. Die
 in den oben angeführten Beispielen durchgeführte Kommutationsprobe nennt
 man übrigens auch den **Minimalpaartest**. (vgl. auch in der
-Dudengrammatik, Band 4 (1995: 32-33) über die funktionalen Eigenschaften
-Opposition und Kontrast am Beispiel des Wortes \<Markt\>).
+Dudengrammatik [@drosdowski1995duden : 32-33] über die funktionalen
+Eigenschaften Opposition und Kontrast am Beispiel des Wortes \<Markt\>).
 
 ### Variation
 

@@ -10,3 +10,4 @@ phonem--und-silbeninventare
 phonem-und-hierarchie
 phonemik-im-fremdsprachenunterricht
 phonemik-und-orthographie
+literatur
