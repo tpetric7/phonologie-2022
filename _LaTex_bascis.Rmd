@@ -9,6 +9,12 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+https://en.wikipedia.org/wiki/Phonetic_symbols_in_Unicode
+https://www.phon.ucl.ac.uk/home/sampa/german.htm
+https://en.wikipedia.org/wiki/X-SAMPA
+
+https://www.overleaf.com/learn/latex/Mathematical_expressions
+
 $$E=mc^2$$
 
 Das ist die Gleichung $E=mc^2$, die im Jahr 1905 von Einstein entdeckt wurde. Einstein entdeckte 1905 die folgende Gleichung: $$E=mc^2.$$ Das arithmetische Mittel wird nach der Gleichung $mean = \frac{\sum(x)}{n}$ berechnet. Die Gleichung $E=mc^2$ ist eine der bekanntesten aus der Relativitätstheorie.
