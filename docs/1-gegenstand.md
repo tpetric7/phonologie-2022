@@ -115,7 +115,7 @@ stimmlosen bilabialen Verschlußlauten verdeutlicht werden.
     (5). Das slowenische Phonem /p/ wird in (4) immer nur durch ein Phon
     realisiert, und zwar durch [p].
 
-<img src="pictures/01b_NSG_Intro_2020-10-07/phoneme_und_allophone2.png" width="60%" />
+<img src="pictures/01b_NSG_Intro_2020-10-07/phoneme_und_allophone2.png" width="50%" />
 
 ## Aufgabenbereich der Phonetik
 
