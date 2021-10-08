@@ -2,8 +2,11 @@ einführung
 gegenstand-und-sinn-der-phonologie
 phonemik-vs.-phonetik
 aufgabenbereich-der-phonetik
-exkurs-wals-online
 aufgabenbereich-phonemik
+opposition
+variation
+distribution
+phonem--und-silbeninventare
 phonem-und-hierarchie
 phonemik-im-fremdsprachenunterricht
 phonemik-und-orthographie
