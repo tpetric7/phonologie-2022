@@ -92,11 +92,10 @@ stimmlosen bilabialen Verschlußlauten verdeutlicht werden.
 -   **Aus phonetischer Sicht** kommen in den englischen, deutschen und
     thailändischen Wörtern in (1), (2) und (3) zwei stimmlose bilabiale
     Verschlußlaute vor, und zwar [p^h^] und [p], in den slowenischen in
-
     (4) hingegen nur ein stimmloser bilabialer Verschlußlaut, und zwar
-        [p]. Vom Standpunkt der Phonetik besteht also in dieser Hinsicht
-        ein Unterschied zwischen dem Deutschen, Englischen und Thai
-        einerseits und dem Slowenischen andererseits.
+    [p]. Vom Standpunkt der Phonetik besteht also in dieser Hinsicht ein
+    Unterschied zwischen dem Deutschen, Englischen und Thai einerseits
+    und dem Slowenischen andererseits.
 
 -   **Aus phonemischer Sicht** kann man jedoch feststellen, daß die
     Verschlußlaute [p^h^] und [p] im Englischen und Deutschen in einem
