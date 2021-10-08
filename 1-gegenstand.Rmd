@@ -119,7 +119,7 @@ knitr::include_graphics("pictures/01b_NSG_Intro_2020-10-07/phoneme_und_allophone
     (5). Das slowenische Phonem /p/ wird in (4) immer nur durch ein Phon
     realisiert, und zwar durch [p].
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="50%"}
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="30%"}
 knitr::include_graphics("pictures/01b_NSG_Intro_2020-10-07/phoneme_und_allophone2.png")
 ```
 
