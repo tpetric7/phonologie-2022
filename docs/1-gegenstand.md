@@ -12,7 +12,11 @@ Der *Text* ist die umfangreichste und hierarchisch höchste kommunikative Einhei
 
 Die *Phoneme* (distinktive Sprachlauttypen) und *Phone* (Sprachlaute) gehören zu den kleinsten Einheiten eines mündlichen Textes.
 
-Die *Phonologie* ist eine Teildisziplin der Sprachwissenschaft, die sich mit der lautlichen Seite von sprachlichen Äußerungen beschäftigt. Der Ausdruck wird verschiedenartig verwendet. Im Rahmen dieser Vorlesungen wird er als Oberbegriff für alle Teildisziplinen verwendet, die die lautliche Seite von Sprache untersuchen, also als *Oberbegriff* für *Phonetik*, *Phonemik*, *Phonotaktik* und *Prosodie*. So wird der Ausdruck auch in amerikanischen sprachwissenschaftlichen Studien verwendet [@bussmann1990lexikon : 58]. In vielen wissenschaftlichen Arbeiten wird Phonologie im Sinne von Phonemik verwendet, also in einem eingeschränkteren Sinne als in dieser Vorlesung. Der slowenische Ausdruck glasoslovje wird von Toporišič ebenfalls als Oberbegriff für die oben angeführten Teilgebiete verwendet (vgl. [@toporivsivc1992slovenska : 50].
+:::rmdnote
+Die *Phonologie* ist eine Teildisziplin der Sprachwissenschaft, die sich mit der lautlichen Seite von sprachlichen Äußerungen beschäftigt. Der Ausdruck wird verschiedenartig verwendet. Im Rahmen dieses Lehrbuches wird er als Oberbegriff für alle Teildisziplinen verwendet, die die lautliche Seite von Sprache untersuchen, also als *Oberbegriff* für *Phonetik*, *Phonemik*, *Phonotaktik* und *Prosodie*. So wird der Ausdruck auch in amerikanischen sprachwissenschaftlichen Studien verwendet [@bussmann1990lexikon : 58]. 
+:::
+
+In vielen wissenschaftlichen Arbeiten wird Phonologie im Sinne von Phonemik verwendet, also in einem eingeschränkteren Sinne als in dieser Vorlesung. Der slowenische Ausdruck glasoslovje wird von Toporišič ebenfalls als Oberbegriff für die oben angeführten Teilgebiete verwendet (vgl. [@toporivsivc1992slovenska : 50].
 
 ## Phonemik vs. Phonetik
 
@@ -73,6 +77,21 @@ Das Lautinventar gilt als Grundlage für den nächsten Schritt, die Ermittlung v
 <img src="pictures/01b_NSG_Intro_2020-10-07/deutsche_phone.png" width="60%" />
 
 Eine etwas umfangreichere Liste von Lauten der deutschen Sprache finden sich z.B. in der Dudengrammatik [@grebe1973duden : 23-24]. Zum **slowenischen Laut- und Phoneminventar** vgl. [@toporivsivc1992slovenska : 39ff.].
+
+:::rmdrobot
+Beantworten Sie einige Fragen zum ersten Kapitel in schriftlicher Form! (Wiederholung dieser Fragen in mündlicher Form am Anfang des nächsten Treffens)
+1.  Welche vier Teildisziplinen der Phonologie können wir unterscheiden?
+2.  Beschreiben Sie in jeweils einem Satz, wie sich die einzelne Teildisziplin mit der Lautseite der Sprache beschäftigt!
+3.  Was unterscheidet Phone von Phonemen?
+4.  Welche Größe hat das Inventar deutscher Vokalphoneme im Vergleich zum Inventar slowenischer Vokalphoneme? Welches könnte deshalb schwerer zu erlernen sein?
+:::
+
+:::rmdrobot
+Lesen Sie das Märchen "Der Bauer und der Teufel" laut vor und nehmen Sie sich dabei auf (in möglichst guter Klangqualität und ohne Störgeräusche)!
+Verwenden Sie für die Sprachaufnahme Ihr Handy oder ein Programm auf Ihrem Computer (z.B. Praat oder Audacity)! Die Audiodatei soll Ihnen zur Messung von Vokaldauer- und frequenzwerten mit Hilfe von Praat dienen.
+:::
+
+
 
 ## Aufgabenbereich Phonemik
 
