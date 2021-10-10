@@ -54,9 +54,10 @@ syntaktischer Einheiten* wie etwa der Satztypen, Satzglieder und
 Attribute.[^index-1]
 
 [^index-1]: Dieses Buch wurde mit `Bookdown` [@xie2015] verfasst.
-    \[îndex-2\]: Clipart von <https://www.clipartmax.com/>.
 
-Hinweise\[\^index-2\]:
+Hinweise[^index-2]:
+
+[^index-2]: Clipart von <https://www.clipartmax.com/>.
 
 ::: rmdnote
 Das ist eine Definition (rmdnote).
@@ -81,5 +82,6 @@ Das ist eine Warnung (rmdwarning).
 ::: rmderror
 Das ist eine Fehlermeldung (rmderror).
 :::
+
 
 
