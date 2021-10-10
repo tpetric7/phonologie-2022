@@ -1,12 +1,14 @@
 # Gegenstand und Sinn der Phonologie
 
-Im Alltag, sei es privat oder im Beruf, verständigen wir uns vorrangig mit Hilfe von mündlich oder schriftlich geführten Texten. Aufbau und Wirkung eines Textes sind leichter zu erkennen, wenn man ihn nach nachvollziehbaren Prinzipien und Methoden in kleinere Einheiten zerlegt. In der Sprachwissenschaft hat sich eine längere Liste von Einheiten in Texten etabliert, die man verschiedenen Bereichen zuordnen kann. Hier sollen vor allem diejenigen Bereiche erwähnt werden, die gemeinsam die Grammatik einer Sprache umreißen.
+Im Alltag, sei es privat oder im Beruf, verständigen wir uns vorrangig mit Hilfe von mündlich oder schriftlich geführten Texten. Aufbau und Wirkung eines Textes sind leichter zu erkennen, wenn man ihn nach nachvollziehbaren Prinzipien und Methoden in kleinere Einheiten zerlegt. In der Sprachwissenschaft hat sich eine längere Liste von Einheiten in Texten etabliert, die man verschiedenen Bereichen zuordnen kann. Hier sollen vor allem diejenigen Bereiche erwähnt werden, die gemeinsam die Grammatik einer Sprache umreißen. 
 
 <img src="pictures/grammatische_bereiche.png" width="60%" />
 
 Der *Text* ist die umfangreichste und hierarchisch höchste kommunikative Einheit, die aus inhaltlich zusammenhängenden *Äußerungen* besteht und eine nachvollziehbare und sortenspezifische Struktur aufweist. [@engel2008deutsche: 33]
 
-**Äußerungen** lassen sich als Laut- oder Schriftzeichenketten definieren, die von einem Sprecher zwischen zwei Pausen produziert werden und aus einem oder mehreren Sätzen bestehen können. [@bussmann1990lexikon: 52] Im Gegensatz zu Sätzen sind sie *kommunikative* Einheiten und gehören somit auf die Ebene der *`Performanz`* oder Parole.
+:::rmdnote
+`Äußerungen` lassen sich als Laut- oder Schriftzeichenketten definieren, die von einem Sprecher zwischen zwei Pausen produziert werden und aus einem oder mehreren Sätzen bestehen können. [@bussmann1990lexikon: 52] Im Gegensatz zu Sätzen sind sie `kommunikative` Einheiten und gehören somit auf die Ebene der `Performanz` oder Parole.
+:::
 
 Die *Phoneme* (distinktive Sprachlauttypen) und *Phone* (Sprachlaute) gehören zu den kleinsten Einheiten eines mündlichen Textes.
 
@@ -149,25 +151,25 @@ Aus dieser Gegenüberstellung ist ersichtlich, daß die **Distribution** des vel
 
 **Tabelle 2: Distribution des Nasalkonsonaten [ŋ] im Deutschen und Slowenischen**
 
-+-------------------------------+----------------------------------------------------------------------------+------------------------+
-|                               | **Deutsch**                                                                | **Slowenisch**         |
-+===============================+============================================================================+========================+
-| **Wort- u. Silbenanlaut**     |                                                                            |                        |
-+-------------------------------+----------------------------------------------------------------------------+------------------------+
-| **Wort- u. Silbeninlaut**     | vor [k] \| v \| o                                                        | r [k]                |
-+-------------------------------+----------------------------------------------------------------------------+------------------------+
-| **Wortinlaut (Silbengelenk)** | vor [ə] und \| \|   [l̩] \| \|                                          |                        |
-+-------------------------------+----------------------------------------------------------------------------+------------------------+
-| -   \*Silbenauslaut\*\*       | nach ungespann. Vokal:                                                     | nach ungespann. Vokal: |
-|                               |                                                                            |                        |
-|                               | vor [k] \| v \| o                                                        | r[k],                |
-|                               |                                                                            |                        |
-|                               |                                                                            | vor [g],             |
-|                               |                                                                            |                        |
-|                               |                                                                            | vor [x]              |
-+-------------------------------+----------------------------------------------------------------------------+------------------------+
-| **Wortauslaut**               | nach [g] und \| \|   [k] in \| \| unbetonter Silbe (bei Schwa-Tilgung) |                        |
-+-------------------------------+----------------------------------------------------------------------------+------------------------+
++-------------------------------+-------------------------------------------------------------------------------------+------------------------+
+|                               | **Deutsch**                                                                         | **Slowenisch**         |
++===============================+=====================================================================================+========================+
+| **Wort- u. Silbenanlaut**     |                                                                                     |                        |
++-------------------------------+-------------------------------------------------------------------------------------+------------------------+
+| **Wort- u. Silbeninlaut**     | vor [k] \| v \| o \| r \| [ \| k]                                               |                        |
++-------------------------------+-------------------------------------------------------------------------------------+------------------------+
+| **Wortinlaut (Silbengelenk)** | vor [ə] und \| \|   [l̩] \| \| \| \| \|                                          |                        |
++-------------------------------+-------------------------------------------------------------------------------------+------------------------+
+| -   \*Silbenauslaut\*\*       | nach ungespann. Vokal:                                                              | nach ungespann. Vokal: |
+|                               |                                                                                     |                        |
+|                               | vor [k] \| v \| o \| r \| [ \| k]                                               | ,                      |
+|                               |                                                                                     |                        |
+|                               |                                                                                     | vor [g],             |
+|                               |                                                                                     |                        |
+|                               |                                                                                     | vor [x]              |
++-------------------------------+-------------------------------------------------------------------------------------+------------------------+
+| **Wortauslaut**               | nach [g] und \| \|   [k] in \| \| unbetonter Silbe (bei Schwa-Tilgung) \| \| \| |                        |
++-------------------------------+-------------------------------------------------------------------------------------+------------------------+
 
  
 

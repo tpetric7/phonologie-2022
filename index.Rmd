@@ -66,6 +66,33 @@ syntaktischer Einheiten* wie etwa der Satztypen, Satzglieder und
 Attribute.[^index-1]
 
 [^index-1]: Dieses Buch wurde mit `Bookdown` [@xie2015] verfasst.
+    \[îndex-2\]: Clipart von <https://www.clipartmax.com/>.
+
+Hinweise\[\^index-2\]:
+
+::: rmdnote
+Das ist eine Definition (rmdnote).
+:::
+
+::: rmdtip
+Das ist ein Tip oder eine Info (rmdtip).
+:::
+
+::: rmdrobot
+Das ist ein Arbeitsvorschlag (rmdrobot).
+:::
+
+::: rmdrstudio
+Das ist der RStudio Logotyp (rmdrstudio).
+:::
+
+::: rmdwarning
+Das ist eine Warnung (rmdwarning).
+:::
+
+::: rmderror
+Das ist eine Fehlermeldung (rmderror).
+:::
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages

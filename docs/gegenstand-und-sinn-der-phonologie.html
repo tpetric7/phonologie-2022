@@ -138,7 +138,9 @@ div.csl-indent {
 <p>Im Alltag, sei es privat oder im Beruf, verständigen wir uns vorrangig mit Hilfe von mündlich oder schriftlich geführten Texten. Aufbau und Wirkung eines Textes sind leichter zu erkennen, wenn man ihn nach nachvollziehbaren Prinzipien und Methoden in kleinere Einheiten zerlegt. In der Sprachwissenschaft hat sich eine längere Liste von Einheiten in Texten etabliert, die man verschiedenen Bereichen zuordnen kann. Hier sollen vor allem diejenigen Bereiche erwähnt werden, die gemeinsam die Grammatik einer Sprache umreißen.</p>
 <p><img src="pictures/grammatische_bereiche.png" width="60%" /></p>
 <p>Der <em>Text</em> ist die umfangreichste und hierarchisch höchste kommunikative Einheit, die aus inhaltlich zusammenhängenden <em>Äußerungen</em> besteht und eine nachvollziehbare und sortenspezifische Struktur aufweist. <span class="citation">(<a href="#ref-engel2008deutsche" role="doc-biblioref">Engel 2008</a>: 33)</span></p>
-<p><strong>Äußerungen</strong> lassen sich als Laut- oder Schriftzeichenketten definieren, die von einem Sprecher zwischen zwei Pausen produziert werden und aus einem oder mehreren Sätzen bestehen können. <span class="citation">(<a href="#ref-bussmann1990lexikon" role="doc-biblioref">Bußmann 1990</a>: 52)</span> Im Gegensatz zu Sätzen sind sie <em>kommunikative</em> Einheiten und gehören somit auf die Ebene der <em><code>Performanz</code></em> oder Parole.</p>
+<div class="rmdnote">
+<p><code>Äußerungen</code> lassen sich als Laut- oder Schriftzeichenketten definieren, die von einem Sprecher zwischen zwei Pausen produziert werden und aus einem oder mehreren Sätzen bestehen können. <span class="citation">(<a href="#ref-bussmann1990lexikon" role="doc-biblioref">Bußmann 1990</a>: 52)</span> Im Gegensatz zu Sätzen sind sie <code>kommunikative</code> Einheiten und gehören somit auf die Ebene der <code>Performanz</code> oder Parole.</p>
+</div>
 <p>Die <em>Phoneme</em> (distinktive Sprachlauttypen) und <em>Phone</em> (Sprachlaute) gehören zu den kleinsten Einheiten eines mündlichen Textes.</p>
 <p>Die <em>Phonologie</em> ist eine Teildisziplin der Sprachwissenschaft, die sich mit der lautlichen Seite von sprachlichen Äußerungen beschäftigt. Der Ausdruck wird verschiedenartig verwendet. Im Rahmen dieser Vorlesungen wird er als Oberbegriff für alle Teildisziplinen verwendet, die die lautliche Seite von Sprache untersuchen, also als <em>Oberbegriff</em> für <em>Phonetik</em>, <em>Phonemik</em>, <em>Phonotaktik</em> und <em>Prosodie</em>. So wird der Ausdruck auch in amerikanischen sprachwissenschaftlichen Studien verwendet <span class="citation">(<a href="#ref-bussmann1990lexikon" role="doc-biblioref">Bußmann 1990</a> : 58)</span>. In vielen wissenschaftlichen Arbeiten wird Phonologie im Sinne von Phonemik verwendet, also in einem eingeschränkteren Sinne als in dieser Vorlesung. Der slowenische Ausdruck glasoslovje wird von Toporišič ebenfalls als Oberbegriff für die oben angeführten Teilgebiete verwendet (vgl. <span class="citation">(<a href="#ref-toporivsivc1992slovenska" role="doc-biblioref">Toporišič 1992</a> : 50)</span>.</p>
 <div id="phonemik-vs.-phonetik" class="section level2" number="2.1">
@@ -248,11 +250,11 @@ div.csl-indent {
 <li><p>im Auslaut nach [g] und [k] (d.h. aufgrund von Schwa-Reduktion und regressiver Nasalassimilation an einen velaren Obstruenten wie im deutschen Verb &lt;fragen&gt;).</p></li>
 </ul>
 <p><strong>Tabelle 2: Distribution des Nasalkonsonaten [ŋ] im Deutschen und Slowenischen</strong></p>
-<table>
+<table style="width:100%;">
 <colgroup>
-<col width="23%" />
-<col width="57%" />
-<col width="18%" />
+<col width="22%" />
+<col width="60%" />
+<col width="17%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -269,12 +271,12 @@ div.csl-indent {
 </tr>
 <tr class="even">
 <td><strong>Wort- u. Silbeninlaut</strong></td>
-<td>vor [k] | v | o | r</td>
-<td>[k]</td>
+<td>vor [k] | v | o | r | [ | k] |</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><strong>Wortinlaut (Silbengelenk)</strong></td>
-<td>vor [ə] und | |   [l̩] | | |</td>
+<td>vor [ə] und | |   [l̩] | | | | | |</td>
 <td></td>
 </tr>
 <tr class="even">
@@ -282,15 +284,14 @@ div.csl-indent {
 <li>*Silbenauslaut**</li>
 </ul></td>
 <td><p>nach ungespann. Vokal:</p>
-<p>vor [k] | v | o | r</p></td>
+<p>vor [k] | v | o | r | [ | k] | ,</p></td>
 <td><p>nach ungespann. Vokal:</p>
-<p>[k],</p>
 <p>vor [g],</p>
 <p>vor [x]</p></td>
 </tr>
 <tr class="odd">
 <td><strong>Wortauslaut</strong></td>
-<td>nach [g] und | |   [k] in | | unbetonter Silbe (bei Schwa-Tilgung) |</td>
+<td>nach [g] und | |   [k] in | | unbetonter Silbe (bei Schwa-Tilgung) | | | |</td>
 <td></td>
 </tr>
 </tbody>
@@ -628,6 +629,20 @@ gitbook.start({
 });
 </script>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 </body>
 
 </html>
