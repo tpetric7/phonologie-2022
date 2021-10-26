@@ -24,7 +24,7 @@
 <meta name="author" content="Teodor Petrič" />
 
 
-<meta name="date" content="2021-10-10" />
+<meta name="date" content="2021-10-17" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -136,7 +136,7 @@ div.csl-indent {
 <div id="header">
 <h1 class="title">Phonologie 2021/2022</h1>
 <p class="author"><em>Teodor Petrič</em></p>
-<p class="date"><em>2021-10-10</em></p>
+<p class="date"><em>2021-10-17</em></p>
 </div>
 <div id="einführung" class="section level1" number="1">
 <h1><span class="header-section-number">Kapitel 1</span> Einführung</h1>
@@ -254,6 +254,20 @@ gitbook.start({
 });
 </script>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 </body>
 
 </html>
